@@ -1,7 +1,9 @@
-# Blue-Team-Resources
-A curated list of tools used for my daily analysis as a Blue Teamer
+# Purple Team Resources
+A curated list of tools used for my daily analysis as a Purple Teamer
 
-## IP Check
+## Blue Team Resources
+---
+### IP Check
 Virus Total - https://www.virustotal.com \
 Alien Vault - https://otx.alienvault.com/browse/global/indicators \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
@@ -14,9 +16,12 @@ Cisco TALOS - https://talosintelligence.com/ \
 AbuseIPDB - https://www.abuseipdb.com/ \
 Whatismyipaddress Blacklist Check- https://whatismyipaddress.com/blacklist-check \
 The Anti Abuse Project - http://www.anti-abuse.org/multi-rbl-check/ \
-InQuest Labs - https://labs.inquest.net/dfi
+InQuest Labs - https://labs.inquest.net/dfi \
+MalwareIURL - https://www.malwareurl.com/listing-urls.php \
+ThreatMiner - https://www.threatminer.org/ \
+IPinfo - https://ipinfo.io/
 
-## URL Check
+### URL Check
 Virus Total - https://www.virustotal.com \
 Alien Vault - https://otx.alienvault.com/browse/global/indicators \
 URLHaus - https://urlhaus.abuse.ch/browse/ \
@@ -25,9 +30,11 @@ IP Quality Score - https://www.ipqualityscore.com/threat-feeds/malicious-url-sca
 Sucuri - https://sitecheck.sucuri.net/ \
 InQuest Labs - https://labs.inquest.net/dfi \
 ThreatCrowd - https://www.threatcrowd.org \
-Threat Fox - https://threatfox.abuse.ch/browse/
+Threat Fox - https://threatfox.abuse.ch/browse/ \
+MalwareURL - https://www.malwareurl.com/listing-urls.php \
+ThreatMiner - https://www.threatminer.org/
 
-## Malware Check
+### Malware Check
 Virus Total - https://www.virustotal.com \
 Alien Vault - https://otx.alienvault.com/browse/global/indicators \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
@@ -35,8 +42,15 @@ Malware Baazar - https://bazaar.abuse.ch/browse/ \
 Triage - https://tria.ge/reports/public \
 Malshare - https://malshare.com/ \
 YOMI - https://yomi.yoroi.company/upload \
-InQuest Labs - https://labs.inquest.net/dfi
+InQuest Labs - https://labs.inquest.net/dfi \
+ThreatMiner - https://www.threatminer.org/
 
-## Dynamic Analysis
+### Dynamic Analysis
 Hybrid Analysis - https://www.hybrid-analysis.com/ \
 Any Run - https://app.any.run/
+
+## Red Team Resources
+---
+
+### OSINT
+OSINT Framework - https://osintframework.com/
