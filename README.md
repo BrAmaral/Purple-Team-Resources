@@ -55,3 +55,8 @@ Any Run - https://app.any.run/
 ### OSINT
 OSINT Framework - https://osintframework.com/ \
 FullContact API - https://platform.fullcontact.com/developers/api-keys
+
+### References
+Hacking Articles - https://www.hackingarticles.in/ \
+Hacking Tricks - https://book.hacktricks.xyz/ \
+Pentest Monkey - http://pentestmonkey.net/
