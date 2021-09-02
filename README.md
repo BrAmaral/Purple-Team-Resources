@@ -61,10 +61,16 @@ Hacking Articles - https://www.hackingarticles.in/ \
 Hacking Tricks - https://book.hacktricks.xyz/ \
 Pentest Monkey - http://pentestmonkey.net/
 
-### Learning & Practicing
+### Learning Spots & CTF
 HackTheBox - https://www.hackthebox.eu/ \
 TryHackMe - https://tryhackme.com/ \
 VulnHub - https://www.vulnhub.com/ \
 PortSwigger - https://portswigger.net/web-security/all-materials \
 Hacker101 - https://ctf.hacker101.com/ \
+
+### Cracking Hashes
+CrackStation - https://crackstation.net/
+Hashes.com - https://hashes.com/en/decrypt/hash
+
+### Privilege Escalation & Interactive Shell
 GTFOBins - https://gtfobins.github.io/#
