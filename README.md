@@ -69,7 +69,7 @@ PortSwigger - https://portswigger.net/web-security/all-materials \
 Hacker101 - https://ctf.hacker101.com/ \
 
 ### Cracking Hashes
-CrackStation - https://crackstation.net/
+CrackStation - https://crackstation.net/ \
 Hashes.com - https://hashes.com/en/decrypt/hash
 
 ### Privilege Escalation & Interactive Shell
