@@ -1,5 +1,5 @@
 # Purple Team Resources
-A curated list of tools used for my daily analysis as a Purple Teamer
+A curated list of tools and resources that I use daily as a Purple Teamer. Enjoy!
 
 ## Blue Team Resources
 ---
