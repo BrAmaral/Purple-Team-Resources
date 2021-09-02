@@ -66,7 +66,7 @@ HackTheBox - https://www.hackthebox.eu/ \
 TryHackMe - https://tryhackme.com/ \
 VulnHub - https://www.vulnhub.com/ \
 PortSwigger - https://portswigger.net/web-security/all-materials \
-Hacker101 - https://ctf.hacker101.com/ \
+Hacker101 - https://ctf.hacker101.com/
 
 ### Cracking Hashes
 CrackStation - https://crackstation.net/ \
