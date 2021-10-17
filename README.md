@@ -59,7 +59,11 @@ FullContact API - https://platform.fullcontact.com/developers/api-keys
 ### References
 Hacking Articles - https://www.hackingarticles.in/ \
 Hacking Tricks - https://book.hacktricks.xyz/ \
-Pentest Monkey - http://pentestmonkey.net/
+Pentest Monkey - http://pentestmonkey.net/ \
+Web App Testing Guide - https://owasp.org/www-project-web-security-testing-guide/stable/ \
+XSS CheatSheet - https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html \
+Payload Box - https://github.com/payloadbox \
+Steganography Tools - https://0xrick.github.io/lists/stego/
 
 ### Learning Spots & CTF
 HackTheBox - https://www.hackthebox.eu/ \
@@ -74,3 +78,13 @@ Hashes.com - https://hashes.com/en/decrypt/hash
 
 ### Privilege Escalation & Interactive Shell
 GTFOBins - https://gtfobins.github.io/#
+
+### Useful Articles
+Privilege escalation in Linux using Capabilities: \
+https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
+
+Wordpress Reverse Shell: \
+https://www.hackingarticles.in/wordpress-reverse-shell/ 
+
+Wordpress User Cracking: \
+https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login
