@@ -45,7 +45,7 @@ YOMI - https://yomi.yoroi.company/upload \
 InQuest Labs - https://labs.inquest.net/dfi \
 ThreatMiner - https://www.threatminer.org/
 
-### Dynamic Analysis
+### Dynamic Malware Analysis
 Hybrid Analysis - https://www.hybrid-analysis.com/ \
 Any Run - https://app.any.run/
 
@@ -56,14 +56,15 @@ Any Run - https://app.any.run/
 OSINT Framework - https://osintframework.com/ \
 FullContact API - https://platform.fullcontact.com/developers/api-keys
 
-### References
+### Pentest References and CheatSheets
 Hacking Articles - https://www.hackingarticles.in/ \
 Hacking Tricks - https://book.hacktricks.xyz/ \
 Pentest Monkey - http://pentestmonkey.net/ \
 Web App Testing Guide - https://owasp.org/www-project-web-security-testing-guide/stable/ \
 XSS CheatSheet - https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html \
 Payload Box - https://github.com/payloadbox \
-Steganography Tools - https://0xrick.github.io/lists/stego/
+Steganography Tools - https://0xrick.github.io/lists/stego/ \
+Metasploit Unleashed - https://www.offensive-security.com/metasploit-unleashed
 
 ### Learning Spots & CTF
 HackTheBox - https://www.hackthebox.eu/ \
@@ -79,7 +80,7 @@ Hashes.com - https://hashes.com/en/decrypt/hash
 ### Privilege Escalation & Interactive Shell
 GTFOBins - https://gtfobins.github.io/#
 
-### Useful Articles
+### Useful Articles (That I've Used Before)
 Privilege escalation in Linux using Capabilities: \
 https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 
@@ -88,3 +89,9 @@ https://www.hackingarticles.in/wordpress-reverse-shell/
 
 Wordpress User Cracking: \
 https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login
+
+Web Apps Testing Guide by OWASP: \
+https://owasp.org/www-project-web-security-testing-guide/stable/
+
+Phishing attack using SET and Ettercap \
+https://www.nanoshots.com.br/2015/09/capturando-senhas-com-social.html
