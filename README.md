@@ -47,7 +47,8 @@ ThreatMiner - https://www.threatminer.org/
 
 ### Dynamic Malware Analysis
 Hybrid Analysis - https://www.hybrid-analysis.com/ \
-Any Run - https://app.any.run/
+Any Run - https://app.any.run/ \
+Joe Sandbox - https://www.joesandbox.com/#windows
 
 ## Red Team Resources
 ---
