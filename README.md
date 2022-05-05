@@ -50,6 +50,11 @@ Hybrid Analysis - https://www.hybrid-analysis.com/ \
 Any Run - https://app.any.run/ \
 Joe Sandbox - https://www.joesandbox.com/#windows
 
+### Learning Spots & CTF - Blue Team
+Let's Defend - https://letsdefend.io/ \
+Blue Team Academy - https://www.blueteamsacademy.com/ \
+Cyber Defenders - https://cyberdefenders.org/
+
 ## Red Team Resources
 ---
 
@@ -67,17 +72,14 @@ Payload Box - https://github.com/payloadbox \
 Steganography Tools - https://0xrick.github.io/lists/stego/ \
 Metasploit Unleashed - https://www.offensive-security.com/metasploit-unleashed
 
-### Learning Spots & CTF
+### Learning Spots & CTF - Red Team
 HackTheBox - https://www.hackthebox.eu/ \
 TryHackMe - https://tryhackme.com/ \
 VulnHub - https://www.vulnhub.com/ \
 PortSwigger - https://portswigger.net/web-security/all-materials \
 Hacker101 - https://ctf.hacker101.com/ \
 HackMyVM - https://hackmyvm.eu/ \
-AndroidCTF - https://ctf.hpandro.raviramesh.info/ \
-Let's Defend - https://letsdefend.io/ \
-Blue Team Academy - https://www.blueteamsacademy.com/ \
-Cyber Defenders - https://cyberdefenders.org/
+AndroidCTF - https://ctf.hpandro.raviramesh.info/
 
 ### Cracking Hashes
 CrackStation - https://crackstation.net/ \
