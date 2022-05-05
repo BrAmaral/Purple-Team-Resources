@@ -72,7 +72,12 @@ HackTheBox - https://www.hackthebox.eu/ \
 TryHackMe - https://tryhackme.com/ \
 VulnHub - https://www.vulnhub.com/ \
 PortSwigger - https://portswigger.net/web-security/all-materials \
-Hacker101 - https://ctf.hacker101.com/
+Hacker101 - https://ctf.hacker101.com/ \
+HackMyVM - https://hackmyvm.eu/ \
+AndroidCTF - https://ctf.hpandro.raviramesh.info/ \
+Let's Defend - https://letsdefend.io/ \
+Blue Team Academy - https://www.blueteamsacademy.com/ \
+Cyber Defenders - https://cyberdefenders.org/
 
 ### Cracking Hashes
 CrackStation - https://crackstation.net/ \
