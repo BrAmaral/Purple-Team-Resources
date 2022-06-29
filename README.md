@@ -48,7 +48,14 @@ ThreatMiner - https://www.threatminer.org/
 ### Dynamic Malware Analysis
 Hybrid Analysis - https://www.hybrid-analysis.com/ \
 Any Run - https://app.any.run/ \
-Joe Sandbox - https://www.joesandbox.com/#windows
+Joe Sandbox - https://www.joesandbox.com/#windows \
+Cuckoo Sandbox Online - https://sandbox.pikker.ee/ \
+Cuckoo Sandbox Local - https://cuckoosandbox.org/download \
+IRIS-H Digital Forensics - https://iris-h.services/pages/dashboard \
+YOMI - https://yomi.yoroi.company/upload \
+InQuest Labs - https://labs.inquest.net \
+Manalyzer - https://manalyzer.org/
+
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
