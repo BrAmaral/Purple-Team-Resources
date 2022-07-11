@@ -85,6 +85,7 @@ Pentest Book - https://chryzsh.gitbooks.io/pentestbook/content/ \
 Hausec - https://hausec.com/ \
 HighOnCoffee - https://highon.coffee/blog/ \
 /home/six2dez/.pentest-book - https://pentestbook.six2dez.com/ \
+golinuxcloud - https://www.golinuxcloud.com/kali-linux-bootable-usb/ \
 Pentest Monkey - http://pentestmonkey.net/ \
 Web App Testing Guide - https://owasp.org/www-project-web-security-testing-guide/stable/ \
 XSS CheatSheet - https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html \
