@@ -14,7 +14,7 @@ Shodan - https://www.shodan.io/ \
 Censys - https://censys.io/ipv4 \
 Cisco TALOS - https://talosintelligence.com/ \
 AbuseIPDB - https://www.abuseipdb.com/ \
-Whatismyipaddress Blacklist Check- https://whatismyipaddress.com/blacklist-check \
+Whatismyipaddress Blacklist Check - https://whatismyipaddress.com/blacklist-check \
 The Anti Abuse Project - http://www.anti-abuse.org/multi-rbl-check/ \
 InQuest Labs - https://labs.inquest.net/dfi \
 MalwareIURL - https://www.malwareurl.com/listing-urls.php \
