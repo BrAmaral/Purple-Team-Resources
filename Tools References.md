@@ -25,3 +25,10 @@ Steghide - Check for, and hide files inside images or other files \
 Exiftool - Check for image metadata \
 Binwalk - Check for hidden files within images and other data types \
 Strings - Simple linux tool that filter legible strings from files 
+
+## Web Hacking
+Burpsuite - Proxy \
+OwaspZAP - Proxy & Exploiter \
+Subfinder - Enumerate subdomains \
+Dirbuster - Enumerate directories \
+SQLmap - SQL Injection Framework 
