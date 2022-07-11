@@ -62,16 +62,29 @@ Let's Defend - https://letsdefend.io/ \
 Blue Team Academy - https://www.blueteamsacademy.com/ \
 Cyber Defenders - https://cyberdefenders.org/
 
+
 ## Red Team Resources
 ---
 
 ### OSINT
 OSINT Framework - https://osintframework.com/ \
-FullContact API - https://platform.fullcontact.com/developers/api-keys
+FullContact API - https://platform.fullcontact.com/developers/api-keys \
+Gray Warfare - https://buckets.grayhatwarfare.com/ \
+ICANN Lookup - https://lookup.icann.org/en \
+cqcounter Whois - http://www.cqcounter.biz/whois/ \
+Subdomain Finder - https://subdomainfinder.c99.nl/ \
+Asint Collection - https://start.me/p/b5Aow7/asint_collection \
+DNSdumpster - https://dnsdumpster.com/ \
+DNSTwister - https://dnstwister.report/ 
+
 
 ### Pentest References and CheatSheets
 Hacking Articles - https://www.hackingarticles.in/ \
 Hacking Tricks - https://book.hacktricks.xyz/ \
+Pentest Book - https://chryzsh.gitbooks.io/pentestbook/content/ \
+Hausec - https://hausec.com/ \
+HighOnCoffee - https://highon.coffee/blog/ \
+/home/six2dez/.pentest-book - https://pentestbook.six2dez.com/ \
 Pentest Monkey - http://pentestmonkey.net/ \
 Web App Testing Guide - https://owasp.org/www-project-web-security-testing-guide/stable/ \
 XSS CheatSheet - https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html \
