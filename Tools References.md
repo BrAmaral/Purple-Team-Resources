@@ -31,4 +31,5 @@ Burpsuite - Proxy \
 OwaspZAP - Proxy & Exploiter \
 Subfinder - Enumerate subdomains \
 Dirbuster - Enumerate directories \
-SQLmap - SQL Injection Framework 
+SQLmap - SQL Injection Framework \
+ffuf - Fuzzer
