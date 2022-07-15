@@ -11,7 +11,8 @@ twint - Find twitter account information \
 exiftool - Read metadata from images \
 recon-ng - OSINT Framework multiuse \
 TheHarvester - Gather IP and E-mail information \
-profil3r - Find username information 
+profil3r - Find username information \
+blackbird - Find valid accounts in different platforms using an username
 
 ## Password Cracking
 John The Ripper - Crack hashes \
@@ -34,3 +35,9 @@ Dirbuster - Enumerate directories \
 SQLmap - SQL Injection Framework \
 ffuf - Fuzzer \
 GoBuster - Directory/Subdomain/Fuzzer
+
+## Vulnerability Scanner
+vulscan - NMAP Vulnerability Scanner Extender \
+Vulmap - Local Vulnerability Scanner (Linux & Windows) \
+Rapidscan - Web Vulnerabilty Scanner \
+OWASP Nettacker - Information Gathering & Web Vulnerability Scanner 
