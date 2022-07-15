@@ -38,6 +38,6 @@ GoBuster - Directory/Subdomain/Fuzzer
 
 ## Vulnerability Scanner
 vulscan - NMAP Vulnerability Scanner Extender \
-Vulmap - Local Vulnerability Scanner (Linux & Windows) \
+Vulmap - Local Vulnerability Scanner (Linux & Windows) ! Useful for Privilege Escalation ! \
 Rapidscan - Web Vulnerabilty Scanner \
 OWASP Nettacker - Information Gathering & Web Vulnerability Scanner 
