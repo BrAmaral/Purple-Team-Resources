@@ -15,8 +15,7 @@ TheHarvester - Gather IP and E-mail information \
 profil3r - Find username information \
 blackbird - Find valid accounts in different platforms using an username \
 metagoofil - Search for leaked documents \
-breachparse - Search for breached data \
-Photon - Website Crawler
+breachparse - Search for breached data 
 
 ## Password Cracking
 John The Ripper - Crack hashes \
@@ -34,11 +33,15 @@ Strings - Simple linux tool that filter legible strings from files
 ## Web Hacking
 Burpsuite - Proxy \
 OwaspZAP - Proxy & Exploiter \
-Subfinder - Enumerate subdomains \
-Dirbuster - Enumerate directories \
+Subfinder - Subdomain finder \
+Dirbuster - Directory Buster \
 SQLmap - SQL Injection Framework \
 ffuf - Fuzzer \
-GoBuster - Directory/Subdomain/Fuzzer
+GoBuster - Directory/Subdomain/Fuzzer \
+httrack - Website Cloner \
+Photon - Website Crawler \
+evine - Website Crawler
+
 
 ## Vulnerability Scanner
 vulscan - NMAP Vulnerability Scanner Extender \
