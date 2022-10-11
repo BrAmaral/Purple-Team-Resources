@@ -14,6 +14,11 @@ site:core.windows.net
 site:digitaloceanspaces.com
 ```
 
+Search for cached information:
+```
+site:webcache.googleusercontent.com
+```
+
 ## Hunting for secrets in source code
 **Keywords**:
 ```
