@@ -15,7 +15,7 @@ TheHarvester - Gather IP and E-mail information \
 profil3r - Find username information \
 blackbird - Find valid accounts in different platforms using an username \
 metagoofil - Search for leaked documents \
-breachparse - Search for breached data 
+breachparse - Search for breached data
 
 ## Password Cracking
 John The Ripper - Crack hashes \
@@ -26,12 +26,12 @@ findmyhash - Find if the hash is crackable online
 
 ## Steganography
 Steghide - Check for, and hide files inside images or other files \
-Exiftool - Check for image metadata \
+exiftool - Read metadata from images \
 Binwalk - Check for hidden files within images and other data types \
 Strings - Simple linux tool that filter legible strings from files 
 
 ## Web Hacking
-Burpsuite - Proxy \
+Burpsuite - Proxy (good!)\
 OwaspZAP - Proxy & Exploiter \
 Subfinder - Subdomain finder \
 Dirbuster - Directory Buster \
