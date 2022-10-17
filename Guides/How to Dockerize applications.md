@@ -56,6 +56,13 @@ Likewise, if you need to import a docker container that you've received from som
 
 Run the command `docker import <file_name>.tar <image-name>:<version`
 
+## How to keep a Ubuntu container running
+If you've created a Ubuntu docker container but it terminates right after you start it, you can execute the following command:
+`docker run -i -d ubuntu`
+
+## How to get a Shell on a running Docker container
+If you need to access the shell of a running Docker container, do:
+`docker exec -it <container_id_or_name> /bin/bash`
 
 ## References
 1. https://www.howtogeek.com/devops/how-to-share-docker-images-with-others/
