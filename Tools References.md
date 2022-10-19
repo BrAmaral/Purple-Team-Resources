@@ -34,6 +34,7 @@ Strings - Simple linux tool that filter legible strings from files
 Burpsuite - Proxy (good!)\
 OwaspZAP - Proxy & Exploiter \
 Subfinder - Subdomain finder by Project Discovery \
+amass - Subdomain finder by OWASP \
 Dirbuster - Directory Buster \
 SQLmap - SQL Injection Framework \
 ffuf - Fuzzer \
