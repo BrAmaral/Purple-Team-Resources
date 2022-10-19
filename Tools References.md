@@ -33,7 +33,7 @@ Strings - Simple linux tool that filter legible strings from files
 ## Web Hacking
 Burpsuite - Proxy (good!)\
 OwaspZAP - Proxy & Exploiter \
-Subfinder - Subdomain finder \
+Subfinder - Subdomain finder by Project Discovery \
 Dirbuster - Directory Buster \
 SQLmap - SQL Injection Framework \
 ffuf - Fuzzer \
@@ -42,9 +42,9 @@ httrack - Website Cloner \
 Photon - Website Crawler \
 evine - Website Crawler
 
-
 ## Vulnerability Scanner
 vulscan - NMAP Vulnerability Scanner Extender \
 Vulmap - Local Vulnerability Scanner (Linux & Windows) ! Useful for Privilege Escalation ! \
 Rapidscan - Web Vulnerabilty Scanner \
-OWASP Nettacker - Information Gathering & Web Vulnerability Scanner 
+OWASP Nettacker - Information Gathering & Web Vulnerability Scanner \
+nuclei - Community Powered Vulnerability Scanner from Project Discovery
