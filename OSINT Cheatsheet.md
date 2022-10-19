@@ -18,7 +18,7 @@ site:digitaloceanspaces.com <search_string>
 ```
 site:postman.com <search_string>
 ```
-Search for exposed source code in online repositories:
+**Search for exposed source code in online repositories:**
 ```
 site:github.com <search_string>
 site:bitbucket.com <search_string>
