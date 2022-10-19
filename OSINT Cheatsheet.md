@@ -7,16 +7,16 @@ Links:
 This is compilation of useful resources that I found to be very effective during my OSINT hunts. Enjoy!
 
 ## Google Dorks:
-Search for public cloud buckets:
+**Search for public cloud buckets:**
 ```
-site:amazonaws.com
-site:core.windows.net
-site:digitaloceanspaces.com
+site:amazonaws.com <search_string>
+site:core.windows.net <search_string>
+site:digitaloceanspaces.com <search_string>
 ```
 
-Search for cached information:
+**Search for possible login credentials leftovers from Postman using Dorks:**
 ```
-site:webcache.googleusercontent.com
+site:postman.com <search_string>
 ```
 
 ## Hunting for secrets in source code
