@@ -83,9 +83,15 @@ DNSTwister - https://dnstwister.report/
 Hacking Articles - https://www.hackingarticles.in/ \
 Hacking Tricks - https://book.hacktricks.xyz/ \
 Pentest Book - https://chryzsh.gitbooks.io/pentestbook/content/ \
+Total OSCP Guide - https://sushant747.gitbooks.io/total-oscp-guide/content/ \
+Hack The Box OSCP Preparation - https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/ \
+Steflan Security - https://steflan-security.com \
+SecWiki - https://wiki.zacheller.dev/ \
 Hausec - https://hausec.com/ \
 HighOnCoffee - https://highon.coffee/blog/ \
 /home/six2dez/.pentest-book - https://pentestbook.six2dez.com/ \
+0xffsec Handbook - https://0xffsec.com/handbook/ \
+haax's Cheatsheet - https://cheatsheet.haax.fr/ \
 golinuxcloud - https://www.golinuxcloud.com/kali-linux-bootable-usb/ \
 Pentest Monkey - http://pentestmonkey.net/ \
 Web App Testing Guide - https://owasp.org/www-project-web-security-testing-guide/stable/ \
