@@ -30,6 +30,12 @@ exiftool - Read metadata from images \
 Binwalk - Check for hidden files within images and other data types \
 Strings - Simple linux tool that filter legible strings from files 
 
+## Payload Development
+msfvenom - The combination of payload generation and encoding \
+Veil-Evasion - A tool for payload generation and encoding \
+Onelinepy - A tool used to Generate One-Liners And FUD Payloads \
+NXCrypt - A polymorphic 'python backdoors' crypter written in python by Hadi Mene (h4d3s)
+
 ## Web Hacking
 Burpsuite - Proxy (good!)\
 OwaspZAP - Proxy & Exploiter \
