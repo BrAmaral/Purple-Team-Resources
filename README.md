@@ -101,6 +101,22 @@ Steganography Tools - https://0xrick.github.io/lists/stego/ \
 Metasploit Unleashed - https://www.offensive-security.com/metasploit-unleashed \
 Mobile Security Testing Guide - https://mobile-security.gitbook.io/mobile-security-testing-guide/overview/0x03-overview
 
+### Exploit Development Resources & Articles
+Exploit Development - Everything you need to know: \
+https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/ \
+How to build your own exploits, Part 1: \
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-build-your-own-exploits-part-1-introduction-buffer-overflows-0151173/ \
+How to build your own exploits, Part 2: \
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-build-your-own-exploits-part-2-writing-simple-buffer-overflow-c-0159478/ \
+How to build your own exploits, Part 3: \
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-build-your-own-exploits-part-3-fuzzing-with-spike-find-overflows-0162789/ \
+How to create a Metasploit Exploit in a few minutes: \
+https://null-byte.wonderhowto.com/how-to/create-metasploit-exploit-few-minutes-0168445/ \
+Metasploit - Building a Module: \
+https://www.offensive-security.com/metasploit-unleashed/building-module/ \
+The art of creating backdoors and exploits with metasploit: \
+https://www.thesecurityblogger.com/the-art-of-creating-backdoors-and-exploits-with-metasploit/
+
 
 ### Learning Spots & CTF - Red Team
 HackTheBox - https://www.hackthebox.eu/ \
