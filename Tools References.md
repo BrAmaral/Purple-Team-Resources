@@ -1,5 +1,5 @@
-# Pentesting Tool References
-Tags: #Referencias #RTO #Pentest \
+# Pentesting Tools Reference
+Tags: #Tools #RTO #Pentest \
 Links:
 
 ---
@@ -56,3 +56,7 @@ Vulmap - Local Vulnerability Scanner (Linux & Windows) ! Useful for Privilege Es
 Rapidscan - Web Vulnerabilty Scanner \
 OWASP Nettacker - Information Gathering & Web Vulnerability Scanner \
 nuclei - Community Powered Vulnerability Scanner from Project Discovery
+
+## Memory Debbuging & Reverse Engineering
+GHidra - Open source reverse engineering tool \
+Immunity Debugger - Reverse engineering tool (A great option if you are analyzing a Windows program)
