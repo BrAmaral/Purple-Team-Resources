@@ -48,7 +48,8 @@ ffuf - Fuzzer \
 GoBuster - Directory/Subdomain/Fuzzer \
 httrack - Website Cloner \
 Photon - Website Crawler \
-evine - Website Crawler
+evine - Website Crawler \
+dnsrecon - DNS Enumerator
 
 ## Vulnerability Scanner
 vulscan - NMAP Vulnerability Scanner Extender \
