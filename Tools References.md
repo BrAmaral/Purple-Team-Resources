@@ -15,7 +15,10 @@ TheHarvester - Gather IP and E-mail information \
 profil3r - Find username information \
 blackbird - Find valid accounts in different platforms using an username \
 metagoofil - Search for leaked documents \
-breachparse - Search for breached data
+breachparse - Search for breached data \
+gitleaks - SAST tool for finding secrets in github repos \
+trufflehog - SAST tool for finding secrets in github repos \
+shhgit - SAST tool for finding secrets in github repos
 
 ## Password Cracking
 John The Ripper - Crack hashes \
