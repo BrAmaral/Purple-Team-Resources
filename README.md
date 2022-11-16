@@ -62,6 +62,9 @@ Let's Defend - https://letsdefend.io/ \
 Blue Team Academy - https://www.blueteamsacademy.com/ \
 Cyber Defenders - https://cyberdefenders.org/
 
+### Forensic Analysis Resources
+Linux Forensics Cheatsheet - https://fahmifj.github.io/blog/linux-forensics-command-cheat-sheet/ \
+Incident Response Linux Cheatsheet - https://www.hackingarticles.in/incident-response-linux-cheatsheet/
 
 ## Red Team Resources
 ---
