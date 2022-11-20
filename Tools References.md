@@ -63,4 +63,14 @@ nuclei - Community Powered Vulnerability Scanner from Project Discovery
 
 ## Memory Debbuging & Reverse Engineering
 GHidra - Open source reverse engineering tool \
-Immunity Debugger - Reverse engineering tool (A great option if you are analyzing a Windows program)
+Immunity Debugger - Reverse engineering tool (A great option if you are analyzing a Windows program) \
+
+## Malware Analysis
+Process Hacker - A program that monitor system resources, debug software and detect malware \
+TCPView -  A program that show you detailed listings of all TCP and UDP endpoints on your system \
+AutoRuns - Program that shows auto-start applications on the system \
+Process Explorer  - A program that shows you information about which handles and DLLs processes have opened or loaded \
+Process Monitor - An advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity \
+Wireshark - A network sniffer and protocol analyzer \
+PEstudio - A program to statically analyzing malware \
+ProcDOT - A program to be used in conjunction with Process Monitor. It merges results from Wireshark and Process Monitor and create comprehensive views.
