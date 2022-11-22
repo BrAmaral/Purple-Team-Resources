@@ -52,7 +52,9 @@ GoBuster - Directory/Subdomain/Fuzzer \
 httrack - Website Cloner \
 Photon - Website Crawler \
 evine - Website Crawler \
-dnsrecon - DNS Enumerator
+dnsrecon - DNS Enumerator \
+SecretFinder - A tool to find tokens in Javascript files \
+gmapsapiscanner - A tool to test Google API Tokens
 
 ## Vulnerability Scanner
 vulscan - NMAP Vulnerability Scanner Extender \
