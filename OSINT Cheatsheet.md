@@ -7,7 +7,7 @@ Links:
 This is compilation of useful resources that I found to be very effective during my OSINT hunts. Enjoy!
 
 ## Google/Search Engine Dorks:
-**Search for public cloud buckets:**
+**Search for public cloud buckets/containers:**
 ```
 site:amazonaws.com <search_string>
 site:core.windows.net <search_string>
