@@ -1,5 +1,5 @@
-# Pentesting Tools Reference
-Tags: #Tools #RTO #Pentest \
+# Tools Reference
+Tags: #Tools #BlueTeam #RedTeam \
 Links:
 
 ---
@@ -76,3 +76,7 @@ Process Monitor - An advanced monitoring tool for Windows that shows real-time f
 Wireshark - A network sniffer and protocol analyzer \
 PEstudio - A program to statically analyzing malware \
 ProcDOT - A program to be used in conjunction with Process Monitor. It merges results from Wireshark and Process Monitor and create comprehensive views.
+
+## Active Directory Reconnaissance
+Bloodhound - A framework of tools that helps in collecting and visualizing data from the AD / network \
+PowerView - Script that collect information from the AD and the network
