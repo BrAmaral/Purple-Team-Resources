@@ -8,7 +8,6 @@ Virus Total - https://www.virustotal.com \
 Alien Vault - https://otx.alienvault.com/browse/global/indicators \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 IP Quality Score - https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test \
-ThreatCrowd - https://www.threatcrowd.org \
 BrowserLeaks - https://browserleaks.com \
 Shodan - https://www.shodan.io/ \
 Censys - https://censys.io/ipv4 \
@@ -16,7 +15,7 @@ Cisco TALOS - https://talosintelligence.com/ \
 AbuseIPDB - https://www.abuseipdb.com/ \
 Whatismyipaddress Blacklist Check - https://whatismyipaddress.com/blacklist-check \
 The Anti Abuse Project - http://www.anti-abuse.org/multi-rbl-check/ \
-InQuest Labs - https://labs.inquest.net/dfi \
+InQuest Labs - https://labs.inquest.net/repdb \
 MalwareIURL - https://www.malwareurl.com/listing-urls.php \
 ThreatMiner - https://www.threatminer.org/ \
 IPinfo - https://ipinfo.io/
@@ -28,8 +27,7 @@ URLHaus - https://urlhaus.abuse.ch/browse/ \
 URLScan - https://urlscan.io/ \
 IP Quality Score - https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner \
 Sucuri - https://sitecheck.sucuri.net/ \
-InQuest Labs - https://labs.inquest.net/dfi \
-ThreatCrowd - https://www.threatcrowd.org \
+InQuest Labs - https://labs.inquest.net/iocdb \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 MalwareURL - https://www.malwareurl.com/listing-urls.php \
 ThreatMiner - https://www.threatminer.org/
@@ -53,7 +51,7 @@ Cuckoo Sandbox Online - https://sandbox.pikker.ee/ \
 Cuckoo Sandbox Local - https://cuckoosandbox.org/download \
 IRIS-H Digital Forensics - https://iris-h.services/pages/dashboard \
 YOMI - https://yomi.yoroi.company/upload \
-InQuest Labs - https://labs.inquest.net \
+InQuest Labs - https://labs.inquest.net/dfi \
 Manalyzer - https://manalyzer.org/
 
 
