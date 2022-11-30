@@ -11,6 +11,7 @@ This is compilation of useful resources that I found to be very effective during
 ```
 site:amazonaws.com <search_string>
 site:core.windows.net <search_string>
+site:azurecontainer.io <search_string>
 site:digitaloceanspaces.com <search_string>
 ```
 
