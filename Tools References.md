@@ -77,6 +77,22 @@ Wireshark - A network sniffer and protocol analyzer \
 PEstudio - A program to statically analyzing malware \
 ProcDOT - A program to be used in conjunction with Process Monitor. It merges results from Wireshark and Process Monitor and create comprehensive views.
 
-## Active Directory Reconnaissance
+## Active Directory Environment Reconnaissance & Exploitation
 Bloodhound - A framework of tools that helps in collecting and visualizing data from the AD / network \
-PowerView - Script that collect information from the AD and the network
+PowerView - Script that collect information from the AD and the network \
+Responder - A Man-in-the-middle tool used to enumerate AD and capture hashes \
+MITM6 - A Man-in-the-middle tool used with multiple use cases (one of which is capture hashes) \
+NTLMrelayx - A tool from Impacket that can be used to do Relay attacks in conjunction with Responder or MITM6 \
+Secretsdump - A tool from Impacket to dump secrets from the AD \
+psexec - A tool from Impacket that can be used to get a shell in a Windows machine given that you have the credentials \
+evil-winrm - A tool that we can use to grab a shell in a windows machine given that we have a NTLM hash and WIN-RM service running \
+crackmapexec - The swiss knife for pentesting AD networks \
+incognito (module) - A meterpreter module that allows us to do token impersonation \
+GetUserSPNs - A tool from Impacket that allows us to get TGSs on the network given that we have a valid credential \
+rpcdump - A tool from Impacket that we can use to validate if a server is vulnerable to PrintNightmare, and other uses... \
+mimikatz - A well known tool that is able to extract plaintexts passwords, hash, PIN codes... and more \
+rdesktop - A tool that we can use to open an RDP session with a workstation given that we have a valid credential
+
+
+## Database Enumeration
+sqlitebrowser - A visual tool used to create, design and edit database files compatible with SQLite
