@@ -100,7 +100,10 @@ XSS CheatSheet - https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasi
 Payload Box - https://github.com/payloadbox \
 Steganography Tools - https://0xrick.github.io/lists/stego/ \
 Metasploit Unleashed - https://www.offensive-security.com/metasploit-unleashed \
-Mobile Security Testing Guide - https://mobile-security.gitbook.io/mobile-security-testing-guide/overview/0x03-overview
+Mobile Security Testing Guide - https://mobile-security.gitbook.io/mobile-security-testing-guide/overview/0x03-overview \
+WADComs - https://wadcoms.github.io/ \
+LOLBAS - https://lolbas-project.github.io/#
+
 
 ### Exploit Development Resources & Articles
 Exploit Development - Everything you need to know: \
