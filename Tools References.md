@@ -21,13 +21,19 @@ gitleaks - SAST tool for finding secrets in github repos \
 trufflehog - SAST tool for finding secrets in github repos \
 shhgit - SAST tool for finding secrets in github repos
 
-
 ## Password Cracking
 John The Ripper - Crack hashes \
 Hashcat - Crack hashes \
 Hydra - Execute bruteforce attacks using the network \
 hash-identifier  - Finds the possible hash algorithm \
 findmyhash - Find if the hash is crackable online 
+
+## Social Engineering and Phishing
+SEToolkit - A Social Engineering toolkit containing multiple modules that are useful for that purpose \
+PyPhisher - A phishing tool written in python \
+trape - A OSINT location tracker that uses phishing as a delivery vector \
+SingleFile - Website Cloner \
+httrack - Website Cloner
 
 ## Steganography
 Steghide - Check for, and hide files inside images or other files \
@@ -51,19 +57,19 @@ Dirbuster - Directory Buster \
 SQLmap - SQL Injection Framework \
 ffuf - Fuzzer \
 GoBuster - Directory/Subdomain/Fuzzer \
-httrack - Website Cloner \
 Photon - Website Crawler \
 evine - Website Crawler \
 dnsrecon - DNS Enumerator \
 SecretFinder - A tool to find tokens in Javascript files \
-gmapsapiscanner - A tool to test Google API Tokens
+gmapsapiscanner - A tool to test Google API Tokens \
+Raccoon - A web application reconnaissance tool that also check for vulnerabilities
 
 ## Vulnerability Scanner
 vulscan - NMAP Vulnerability Scanner Extender \
 Vulmap - Local Vulnerability Scanner (Linux & Windows) ! Useful for Privilege Escalation ! \
 Rapidscan - Web Vulnerabilty Scanner \
 OWASP Nettacker - Information Gathering & Web Vulnerability Scanner \
-nuclei - Community Powered Vulnerability Scanner from Project Discovery
+nuclei - Community Powered Vulnerability Scanner from Project Discovery \
 
 ## Memory Debbuging & Reverse Engineering
 GHidra - Open source reverse engineering tool \
@@ -94,7 +100,6 @@ GetUserSPNs - A tool from Impacket that allows us to get TGSs on the network giv
 rpcdump - A tool from Impacket that we can use to validate if a server is vulnerable to PrintNightmare, and other uses... \
 mimikatz - A well known tool that is able to extract plaintexts passwords, hash, PIN codes... and more \
 rdesktop - A tool that we can use to open an RDP session with a workstation given that we have a valid credential
-
 
 ## Database Enumeration
 sqlitebrowser - A visual tool used to create, design and edit database files compatible with SQLite
