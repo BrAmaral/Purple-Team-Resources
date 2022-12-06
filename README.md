@@ -77,7 +77,8 @@ cqcounter Whois - http://www.cqcounter.biz/whois/ \
 Subdomain Finder - https://subdomainfinder.c99.nl/ \
 Asint Collection - https://start.me/p/b5Aow7/asint_collection \
 DNSdumpster - https://dnsdumpster.com/ \
-DNSTwister - https://dnstwister.report/ 
+DNSTwister - https://dnstwister.report/ \
+Blackbird - https://blackbird-osint.herokuapp.com/
 
 
 ### Pentest References and CheatSheets
