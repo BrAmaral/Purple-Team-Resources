@@ -6,6 +6,7 @@ Links:
 ## OSINT
 Sherlock - Find username information \
 social-analyzer - Find username and profile information \
+maigret - Find username and profile information \
 Th3Inspector - OSINT Framework mostly for machines \
 holehe - Find e-mail information \
 twint - Find twitter account information \
@@ -19,6 +20,7 @@ breachparse - Search for breached data \
 gitleaks - SAST tool for finding secrets in github repos \
 trufflehog - SAST tool for finding secrets in github repos \
 shhgit - SAST tool for finding secrets in github repos
+
 
 ## Password Cracking
 John The Ripper - Crack hashes \
