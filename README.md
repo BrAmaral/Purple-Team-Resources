@@ -18,7 +18,10 @@ The Anti Abuse Project - http://www.anti-abuse.org/multi-rbl-check/ \
 InQuest Labs - https://labs.inquest.net/repdb \
 MalwareIURL - https://www.malwareurl.com/listing-urls.php \
 ThreatMiner - https://www.threatminer.org/ \
-IPinfo - https://ipinfo.io/
+IPinfo - https://ipinfo.io/ \
+VPN & Proxy Detection - https://vpn-proxy-detection.ipify.org/ \
+IP Teoh - https://ip.teoh.io/vpn-detection \
+VPNAPI.io - https://vpnapi.io/vpn-detection
 
 ### URL Check
 Virus Total - https://www.virustotal.com \
