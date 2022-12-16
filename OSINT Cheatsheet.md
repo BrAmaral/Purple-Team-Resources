@@ -1632,6 +1632,8 @@ zf3iG1I1lI8pU=
 zfp2yZ8aP9FHSy5ahNjqys4FtubOWLk=
 ZHULIANG_GH_TOKEN=
 ZOPIM_ACCOUNT_KEY=
+mongodb+srv://
+mongodb.net
 ```
 
 > More can be found here: https://github.com/danielmiessler/SecLists/blob/285474cf9bff85f3323c5a1ae436f78acd1cb62c/Discovery/Variables/secret-keywords.txt
