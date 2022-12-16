@@ -26,7 +26,32 @@ site:bitbucket.com <search_string>
 ```
 
 ## Hunting for secrets in source code
-**Keywords**:
+
+### Top 20 keywords
+```
+1. key
+2. private
+3. token
+4. AWS / Azure
+5. domain
+6. secret
+7. API
+8. password / pwd / pass
+9. user
+10. id
+11. access
+12. host
+13. env
+14. var
+15. bucket
+16. db / database / mongo / sql
+17. login
+18. email / e-mail
+19. auth
+20. hook
+```
+
+### General Keyword List
 ```
 secret
 key
