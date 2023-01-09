@@ -10,7 +10,7 @@ This is compilation of useful resources that I found to be very effective during
 **Search for public cloud buckets/containers:**
 ```
 site:amazonaws.com <search_string>
-site:core.windows.net <search_string>
+site:blob.core.windows.net <search_string>
 site:azurecontainer.io <search_string>
 site:digitaloceanspaces.com <search_string>
 ```
