@@ -6,6 +6,7 @@ A curated list of tools and resources that I use daily as a Purple-Team operator
 ### IP Check
 Virus Total - https://www.virustotal.com \
 Alien Vault - https://otx.alienvault.com/browse/global/indicators \
+SecurityTrails - https://securitytrails.com/list/ip/151.101.130.217 \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 IP Quality Score - https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test \
 BrowserLeaks - https://browserleaks.com \
@@ -26,6 +27,7 @@ VPNAPI.io - https://vpnapi.io/vpn-detection
 ### URL Check
 Virus Total - https://www.virustotal.com \
 Alien Vault - https://otx.alienvault.com/browse/global/indicators \
+SecurityTrails - https://securitytrails.com/domain/google.com/dns \
 URLHaus - https://urlhaus.abuse.ch/browse/ \
 URLScan - https://urlscan.io/ \
 IP Quality Score - https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner \
