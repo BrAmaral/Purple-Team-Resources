@@ -88,7 +88,8 @@ Blackbird - https://blackbird-osint.herokuapp.com/
 
 ### Pentest References and CheatSheets
 Hacking Articles - https://www.hackingarticles.in/ \
-Hacking Tricks - https://book.hacktricks.xyz/ \
+Hack Tricks - https://book.hacktricks.xyz/ \
+Cloud Hack Tricks - https://cloud.hacktricks.xyz/ \
 Pentest Book - https://chryzsh.gitbooks.io/pentestbook/content/ \
 Total OSCP Guide - https://sushant747.gitbooks.io/total-oscp-guide/content/ \
 Hack The Box OSCP Preparation - https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/ \
