@@ -62,7 +62,9 @@ evine - Website Crawler \
 dnsrecon - DNS Enumerator \
 SecretFinder - A tool to find tokens in Javascript files \
 gmapsapiscanner - A tool to test Google API Tokens \
-Raccoon - A web application reconnaissance tool that also check for vulnerabilities
+Raccoon - A web application reconnaissance tool that also check for vulnerabilities \
+Hakrawler - Website Crawler \
+GoSpider - Website Crawler
 
 ## Vulnerability Scanner
 vulscan - NMAP Vulnerability Scanner Extender \
