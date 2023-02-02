@@ -65,7 +65,13 @@ Dirbuster - Directory Buster \
 [Raccoon](https://github.com/evyatarmeged/Raccoon) - A web application reconnaissance tool that also check for vulnerabilities \
 [Hakrawler](https://github.com/hakluke/hakrawler) - Website Crawler \
 [GoSpider](https://github.com/jaeles-project/gospider) - Website Crawler \
-[Subdomainizer](https://github.com/nsonaniya2010/SubDomainizer) - tool designed to find hidden subdomains and secrets present in a webpage, javascript and GitHub
+[Subdomainizer](https://github.com/nsonaniya2010/SubDomainizer) - tool designed to find hidden subdomains and secrets present in a webpage, javascript and GitHub \
+[subscraper](https://github.com/m8sec/subscraper) - Subdomain finder \
+[assetfinder](https://github.com/tomnomnom/assetfinder) - Subdomain finder \
+[httprobe](https://github.com/tomnomnom/httprobe) - A website prober for live servers \
+[GoWitness](https://github.com/sensepost/gowitness) - A website screenshot utility 
+
+
 
 ## Vulnerability Scanner & Framework / Workflow
 [vulscan](https://github.com/scipag/vulscan) - NMAP Vulnerability Scanner Extender \
