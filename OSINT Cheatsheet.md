@@ -1697,3 +1697,5 @@ To search for a string in all commits made: `git grep "<string>" $(git rev-list 
 To locate which branch a commit is on, do: `git branch --contains <commit_hash>`
 
 To see the content of a commit, do: `git diff <commit_hash>`
+
+More information can be found here: https://cloud.hacktricks.xyz/pentesting-ci-cd/github-security#what-is-github
