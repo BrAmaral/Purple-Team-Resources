@@ -1691,7 +1691,7 @@ To show information about all commits (Commiter, e-mail, description) do: `git l
 
 To search for a string in all commits made: `git grep "<string>" $(git rev-list --all)`
 - To search for HTTP/HTTPS links in all commits made: `git grep -o -E 'https?\:\/\/[a-zA-Z0-9\.\/\?\=\&\%\!\+\#\@\:\{\}\$\_\-]*' $(git rev-list --all) | grep -o -E 'https?\:\/\/[a-zA-Z0-9\.\/\?\=\&\%\!\+\#\@\:\{\}\$\_\-]*' | sort --unique`
-- To search for mongoDB connection strings in all commits made: `git grep -o -E 'mongodb\+srv:\/\/.*\.mongodb\.net\/[a-zA-Z0-9]+' $(git rev-list --all) | grep -o -E 'mongodb\+srv:\/\/.*\.mongodb\.net\/[a-zA-Z0-9]+' | sort --unique`
+- To search for mongoDB connection strings in all commits made: `git grep -o -E 'mongodb\+srv:\/\/.*\.mongodb\.net\/([a-zA-Z0-9\?\=\&\%\-]+)?' $(git rev-list --all) | grep -o -E 'mongodb\+srv:\/\/.*\.mongodb\.net\/([a-zA-Z0-9\?\=\&\%\-]+)?' | sort --unique`
 - To search for Google API keys in all commits made: `git grep -o -E 'AIza[0-9A-Za-z\\\_\-]{35}' $(git rev-list --all) | grep -o -E 'AIza[0-9A-Za-z\\\_\-]{35}' | sort --unique`
 - To search for E-mails in all commits made: `git grep -o -E '[a-zA-Z0-9\.\_\-]+\@[a-zA-Z0-9._-]+' $(git rev-list --all) | grep -o -E '[a-zA-Z0-9\.\_\-]+\@[a-zA-Z0-9._-]+' | sort --unique`
 
