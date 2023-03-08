@@ -1,0 +1,127 @@
+# OSINT Checklist
+Tags: #OSINT #Checklist
+Links:
+
+---
+
+## High Value Target OSINT (Individual)
+
+- [ ] Social Media & Other Accounts
+	- [ ] Usernames
+	- [ ] Contents
+- [ ] E-mails
+	- [ ] Breaches & Leaks
+- [ ] Phone Number
+	- [ ] WhatsApp
+	- [ ] Telegram
+	- [ ] Signal
+- [ ] Relations to other people
+	- [ ] Parents
+	- [ ] Siblings
+	- [ ] Friends
+	- [ ] Wife/Husband (or equivalent)
+	- [ ] Children
+	- [ ] Pets
+- [ ] Personal Information
+	- [ ] Full Name
+	- [ ] Age / Birthday
+	- [ ] Height
+	- [ ] NetWorth
+	- [ ] Sexual Orientation
+	- [ ] Nationality
+- [ ] Appearence
+	- [ ] Style Archetype
+	- [ ] Eye Color
+	- [ ] Hair Color
+	- [ ] Body Type
+- [ ] Official Identification Numbers & Documents
+	- [ ] Social Security Number
+	- [ ] Passport Information
+	- [ ] Identity Document
+- [ ] Geographical Location
+	- [ ] Home Address
+	- [ ] Current City / Neighborhood
+- [ ] Work Information
+	- [ ] Work Address
+	- [ ] Work E-mail
+	- [ ] Work Phone Number
+	- [ ] Boss name
+	- [ ] Job Role
+	- [ ] Field of Expertise
+	- [ ] Projects
+	- [ ] Work Experience
+	- [ ] Companies Registered
+- [ ] Medical Information
+	- [ ] Blood Type
+	- [ ] Vaccines taken
+	- [ ] Injuries
+	- [ ] Health Conditions
+- [ ] Personality Traits
+	- [ ] Hobbies
+	- [ ] Food Tastes
+	- [ ] Political Opinion
+	- [ ] Likes & Dislikes
+	- [ ] Daily Routine
+- [ ] Recent Events
+	- [ ] Vacation
+	- [ ] Parties & Social Events
+	- [ ] Sports Practices
+- [ ] Websites & Blogs
+- [ ] Banking Information
+
+## Company / Enterprise OSINT
+
+- [ ] Company General Information
+	- [ ] Company Name
+	- [ ] Market
+	- [ ] Type
+	- [ ] Structure
+	- [ ] Related Companies / Brands
+	- [ ] Office Location / Addresses
+	- [ ] Creation date
+	- [ ] Revenue
+	- [ ] Average Salary
+	- [ ] Size
+- [ ] Executive Board Information
+	- [ ] CEO
+	- [ ] VPs
+	- [ ] Other Executives (For each business unit, if any)
+		- [ ] Head of Finance
+		- [ ] Head of Marketing
+		- [ ] Head of Production / Software
+		- [ ] Head of IT
+		- [ ] Head of Security
+		- [ ] Head of HR
+		- [ ] Head of Legal
+		- [ ] Head of Business Development (or equivalent)
+- [ ] High Value Targets
+	- [ ] Cyber Security Team Members
+	- [ ] DevOps / Engineers Team Members
+	- [ ] Support Team Members
+- [ ] Tech Infrastructure
+	- [ ] Used Technologies
+	- [ ] Domain and Web Applications
+		- [ ] Directories
+		- [ ] Subdomains
+		- [ ] Third Party Connections (Cloud buckets / CDNs)
+	- [ ] Internal Systems
+		- [ ] Documentation / Ticket Platforms (Confluence / Jira / Service Now)
+		- [ ] Code Repositories (GitHub / Azure DevOps)
+		- [ ] Code Pipeline Infrastructure (Jenkins / Docker) 
+		- [ ] ASN / IP Range
+		- [ ] Vulnerable Systems (Shodan / Censys / ZoomEye)
+	- [ ] Breaches & Disclosures
+		- [ ] Code Leak
+		- [ ] Credential Breach
+		- [ ] Malicious Campaigns Suffered
+		- [ ] Misconfiguration & Leaked Sensitive Documents
+	- [ ] Cybercrime Activity
+		- [ ] Dark Web OSINT
+		- [ ] Suspicious Domains
+- [ ] Social Media Presence & Communications
+	- [ ] Job Platforms / Postings
+	- [ ] Social Media Profiles
+		- [ ] Sensitive Posts
+	- [ ] Marketing Campaigns
+
+### Domain / Web Application Attack Surface
