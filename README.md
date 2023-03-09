@@ -22,7 +22,8 @@ ThreatMiner - https://www.threatminer.org/ \
 IPinfo - https://ipinfo.io/ \
 VPN & Proxy Detection - https://vpn-proxy-detection.ipify.org/ \
 IP Teoh - https://ip.teoh.io/vpn-detection \
-VPNAPI.io - https://vpnapi.io/vpn-detection
+VPNAPI.io - https://vpnapi.io/vpn-detection \
+Pulsedive - https://pulsedive.com/
 
 ### URL Check
 Virus Total - https://www.virustotal.com \
@@ -35,7 +36,8 @@ Sucuri - https://sitecheck.sucuri.net/ \
 InQuest Labs - https://labs.inquest.net/iocdb \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 MalwareURL - https://www.malwareurl.com/listing-urls.php \
-ThreatMiner - https://www.threatminer.org/
+ThreatMiner - https://www.threatminer.org/ \
+Pulsedive - https://pulsedive.com/ 
 
 ### Malware Check
 Virus Total - https://www.virustotal.com \
@@ -46,7 +48,8 @@ Triage - https://tria.ge/reports/public \
 Malshare - https://malshare.com/ \
 YOMI - https://yomi.yoroi.company/upload \
 InQuest Labs - https://labs.inquest.net/dfi \
-ThreatMiner - https://www.threatminer.org/
+ThreatMiner - https://www.threatminer.org/ \
+Pulsedive - https://pulsedive.com/
 
 ### Dynamic Malware Analysis
 Hybrid Analysis - https://www.hybrid-analysis.com/ \
