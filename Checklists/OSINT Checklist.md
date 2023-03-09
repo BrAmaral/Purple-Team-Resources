@@ -1,5 +1,5 @@
 # OSINT Checklist
-Tags: #OSINT #Checklist
+Tags: #OSINT #Checklist \
 Links:
 
 ---
@@ -124,4 +124,18 @@ Links:
 		- [ ] Sensitive Posts
 	- [ ] Marketing Campaigns
 
-### Domain / Web Application Attack Surface
+## Domain / Web Application Attack Surface Mapping & Enumeration
+
+- [ ] Root Domains / Assets
+- [ ] Subdomains
+	- [ ] Subdomain Takeover 
+- [ ] Wayback Machine Enumeration
+- [ ] Alive Domains / Assets
+- [ ] Domain / Assets Port Scanning
+- [ ] Domain Crawling
+- [ ] Domain Directory Busting
+- [ ] JavaScript Enumeration
+	- [ ] Token / Secret Hunt
+- [ ] GitHub OSINT
+- [ ] API Enumeration
+- [ ] Vulnerability Scan
