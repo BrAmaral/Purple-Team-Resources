@@ -134,6 +134,7 @@ Links:
 - [ ] Domain / Assets Port Scanning
 - [ ] Domain Crawling
 - [ ] Domain Directory Busting
+- [ ] Web Application Parameter Digging
 - [ ] JavaScript Enumeration
 	- [ ] Token / Secret Hunt
 - [ ] GitHub OSINT
