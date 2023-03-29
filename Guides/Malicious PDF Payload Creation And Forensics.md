@@ -15,7 +15,7 @@ Now you have PDF with a malicious ".exe" binary embedded that exploits a buffer 
 
 ## How to perform the analysis
 
-1. Locate the PDF file you want to analyse;
+1. Locate the PDF file you want to analyze
 2. Execute the command `pdfid <filename.pdf>`
    
    The output shoud be something like this:
@@ -46,6 +46,7 @@ Now you have PDF with a malicious ".exe" binary embedded that exploits a buffer 
    /XFA                   0
    /Colors > 2^24         0
    ```
+  
 3. Use a program called `pdf-parser` to search for these objects within the PDF. Some commands are:
    ```
    To search for occurences of such objects:
@@ -60,13 +61,23 @@ Now you have PDF with a malicious ".exe" binary embedded that exploits a buffer 
    To dump streams found:
    > pdf-parser -o 145 -f evil.pdf -d dump.txt
    ```
-4. Analyze the objects and locate malicious code;
+4. Analyze the objects and locate malicious code
+
+---
+
+Another way of doing it is downloading [Remnux](https://docs.remnux.org/install-distro/get-virtual-appliance) and using `peepdf`:
+1. Locate the PDF file you want to analyze
+2. Do `peepdf -f -i <filename>.pdf`
+3. After that, select the objects that you want to see with `object <number>` and analyze them
 
 Some tips:
 > 1. The presence of objects such as `/JS`, `/JavaScript`, `/OpenAction`, `/AA`, `/Launch` in a PDF are highly suspicious;
 > 2. The occurence of obfuscated content indicates likely malicious intent
+> 3. The PDF can be disarmed by doing `pdfid -d <filename>.pdf`
 
 ## References
 - https://www.aldeid.com/wiki/Pdf-parser
 - https://henryfbp.github.io/posts/2020-04-27-analyzing-document-based-malware-and-reverse-engineering-it/#pdf-file-format
 - https://www.hackercoolmagazine.com/pdf-forensics-kali-linux-pdfid-pdfparser/
+- https://www.youtube.com/watch?v=mZrZ0a0vJkQ
+- https://www.youtube.com/watch?v=eBznWzVQHYY
