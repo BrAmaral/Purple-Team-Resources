@@ -71,8 +71,6 @@ Dirbuster - Directory Buster \
 [httprobe](https://github.com/tomnomnom/httprobe) - A website prober for live servers \
 [GoWitness](https://github.com/sensepost/gowitness) - A website screenshot utility 
 
-
-
 ## Vulnerability Scanner & Framework / Workflow
 [vulscan](https://github.com/scipag/vulscan) - NMAP Vulnerability Scanner Extender \
 [Vulmap](https://github.com/vulmon/Vulmap) - Local Vulnerability Scanner (Linux & Windows) ! Useful for Privilege Escalation ! \
@@ -115,3 +113,10 @@ rdesktop - A tool that we can use to open an RDP session with a workstation give
 ## Database Enumeration
 sqlitebrowser - A visual tool used to create, design and edit database files compatible with SQLite \
 [Mongo Compass](https://www.mongodb.com/try/download/compass) - A visual tool to access mongo databases
+
+## Distros
+[Kali Linux](https://www.kali.org/get-kali/) - Most popular distro for pentesters \
+[Parrot Security](https://www.parrotsec.org/download/) - A security oriented distro \
+[Tails](https://tails.boum.org/install/download/) - A privacy oriented distro for anonymous operations \
+[Kali Purple](https://www.kali.org/get-kali/) - A purple team oriented kali distro \
+[Remnux](https://docs.remnux.org/install-distro/get-virtual-appliance) - A linux toolkit for reverse-engineering and analyzing malicious software
