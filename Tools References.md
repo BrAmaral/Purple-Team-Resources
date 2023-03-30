@@ -77,7 +77,9 @@ Dirbuster - Directory Buster \
 [Rapidscan](https://github.com/skavngr/rapidscan) - Web Vulnerabilty Scanner \
 [OWASP Nettacker](https://github.com/OWASP/Nettacker) - Information Gathering & Web Vulnerability Scanner \
 [nuclei](https://github.com/projectdiscovery/nuclei) - Community Powered Vulnerability Scanner from Project Discovery \
-[Osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security 
+[Osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security \
+[wapiti3](https://wapiti-scanner.github.io/) - Very reliable web application vulnerability scanner \
+[nikto](https://github.com/sullo/nikto) - A web server vulnerability scanner
 
 ## Memory Debbuging & Reverse Engineering
 GHidra - Open source reverse engineering tool \
