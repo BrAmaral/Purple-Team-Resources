@@ -39,30 +39,30 @@ MalwareURL - https://www.malwareurl.com/listing-urls.php \
 ThreatMiner - https://www.threatminer.org/ \
 Pulsedive - https://pulsedive.com/ 
 
-### Malware Check
+### Malware Check & Dynamic Analysis
 Virus Total - https://www.virustotal.com \
 Alien Vault - https://otx.alienvault.com/browse/global/indicators \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 Malware Baazar - https://bazaar.abuse.ch/browse/ \
-Triage - https://tria.ge/reports/public \
-Malshare - https://malshare.com/ \
-YOMI - https://yomi.yoroi.company/upload \
-InQuest Labs - https://labs.inquest.net/dfi \
-ThreatMiner - https://www.threatminer.org/ \
-Pulsedive - https://pulsedive.com/
-
-### Dynamic Malware Analysis
 Hybrid Analysis - https://www.hybrid-analysis.com/ \
 Any Run - https://app.any.run/ \
 Joe Sandbox - https://www.joesandbox.com/#windows \
-Triage - https://tria.ge/submit \
 Cuckoo Sandbox Online - https://sandbox.pikker.ee/ \
 Cuckoo Sandbox Local - https://cuckoosandbox.org/download \
+Drakvuf Local Sandbox - https://github.com/CERT-Polska/drakvuf-sandbox \
+Noriben Local Sandbox - https://github.com/Rurik/Noriben \
+Triage - https://tria.ge/reports/public \
+CAPE - https://capesandbox.com/ \
+Intezer - https://analyze.intezer.com/scan \
 IRIS-H Digital Forensics - https://iris-h.services/pages/dashboard \
+Malshare - https://malshare.com/ \
 YOMI - https://yomi.yoroi.company/upload \
 InQuest Labs - https://labs.inquest.net/dfi \
-Manalyzer - https://manalyzer.org/
-
+Manalyzer - https://manalyzer.org/ \
+ThreatMiner - https://www.threatminer.org/ \
+Pulsedive - https://pulsedive.com/ \
+IObit - https://cloud.iobit.com/index.php \
+Amnpardaz Sandbox - https://jevereg.amnpardaz.com/ 
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
