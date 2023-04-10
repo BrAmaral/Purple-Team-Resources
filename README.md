@@ -55,6 +55,7 @@ Pulsedive - https://pulsedive.com/
 Hybrid Analysis - https://www.hybrid-analysis.com/ \
 Any Run - https://app.any.run/ \
 Joe Sandbox - https://www.joesandbox.com/#windows \
+Triage - https://tria.ge/submit \
 Cuckoo Sandbox Online - https://sandbox.pikker.ee/ \
 Cuckoo Sandbox Local - https://cuckoosandbox.org/download \
 IRIS-H Digital Forensics - https://iris-h.services/pages/dashboard \
