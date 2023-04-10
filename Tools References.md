@@ -87,13 +87,16 @@ Immunity Debugger - Reverse engineering tool (A great option if you are analyzin
 
 ## Malware Analysis
 Process Hacker - A program that monitor system resources, debug software and detect malware \
+[dnSpy](https://github.com/dnSpy/dnSpy) - Debugger and .NET assembly editor \
 TCPView -  A program that show you detailed listings of all TCP and UDP endpoints on your system \
 AutoRuns - Program that shows auto-start applications on the system \
 Process Explorer  - A program that shows you information about which handles and DLLs processes have opened or loaded \
 Process Monitor - An advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity \
+ProcDOT - A program to be used in conjunction with Process Monitor. It merges results from Wireshark and Process Monitor and create comprehensive views. \
 Wireshark - A network sniffer and protocol analyzer \
 PEstudio - A program to statically analyzing malware \
-ProcDOT - A program to be used in conjunction with Process Monitor. It merges results from Wireshark and Process Monitor and create comprehensive views.
+[DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - A program for determining types of files
+
 
 ## Active Directory Environment Reconnaissance & Exploitation
 [Bloodhound](https://github.com/BloodHoundAD/BloodHound) - A framework of tools that helps in collecting and visualizing data from the AD / network \
