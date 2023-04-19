@@ -37,7 +37,10 @@ InQuest Labs - https://labs.inquest.net/iocdb \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 MalwareURL - https://www.malwareurl.com/listing-urls.php \
 ThreatMiner - https://www.threatminer.org/ \
-Pulsedive - https://pulsedive.com/ 
+Pulsedive - https://pulsedive.com/ \
+WhereGoes - https://wheregoes.com/ \
+RedirectDetective - https://redirectdetective.com/ \
+RedirectTracker - https://www.redirecttracker.com/
 
 ### Malware Check & Dynamic Analysis
 Virus Total - https://www.virustotal.com \
@@ -47,6 +50,7 @@ Malware Baazar - https://bazaar.abuse.ch/browse/ \
 Hybrid Analysis - https://www.hybrid-analysis.com/ \
 Any Run - https://app.any.run/ \
 Joe Sandbox - https://www.joesandbox.com/#windows \
+Browserling - https://www.browserling.com/ \
 Cuckoo Sandbox Online - https://sandbox.pikker.ee/ \
 Cuckoo Sandbox Local - https://cuckoosandbox.org/download \
 Drakvuf Local Sandbox - https://github.com/CERT-Polska/drakvuf-sandbox \
