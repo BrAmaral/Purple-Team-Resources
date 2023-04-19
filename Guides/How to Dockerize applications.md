@@ -69,3 +69,5 @@ If you need to access the shell of a running Docker container, do:
 2. https://stackoverflow.com/questions/30090946/how-to-enter-bash-of-an-ubuntu-docker-container
 3. https://www.howtogeek.com/devops/how-to-create-a-docker-image-from-a-running-container/
 4. https://www.mirantis.com/blog/how-do-i-create-a-new-docker-image-for-my-application/
+5. https://docs.docker.com/engine/reference/commandline/commit/
+6. https://docs.docker.com/engine/reference/commandline/build/
