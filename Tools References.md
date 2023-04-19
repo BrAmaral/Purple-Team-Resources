@@ -81,6 +81,18 @@ Dirbuster - Directory Buster \
 [wapiti3](https://wapiti-scanner.github.io/) - Very reliable web application vulnerability scanner \
 [nikto](https://github.com/sullo/nikto) - A web server vulnerability scanner
 
+## Documentation, Planning & Scripting
+[Vectr](https://vectr.io/) - A powerful platform to plan and track cybersecurity operations (both Blue & Red) mapped with the MITRE ATT&CK. \
+[Maltego](https://www.maltego.com/) - Both a powerful OSINT tool and relational graph viewer to map your operation. \
+[Obsidian](https://obsidian.md/) - A powerful and extensible local markdown knowledge base that can be used to store valuable know-hows and concepts. You can also create daily tasklists with the "Daily note" plugin and Mind Maps with the "Canvas" plugin. \
+[ChatGPT](https://chat.openai.com/) - A very powerful LPM AI that can help with planning engagements and giving ideas on how to conduct certain initiatives, as well as a tool to learn from various topics. \
+[Discord](https://discord.com/) - A VoIP and instant messaging social platform that can be used to plan engagements and serve as a virtual HQ. \
+[Trello](https://trello.com/) - A platform that can be used to organize projects and tasks. \
+[Github](https://github.com/) - An Internet hosting service for software development and version control using Git. Very useful platform that helps with code development & knowledge base sharing (You are here, aren't you? duuh) \
+[Draw.io](https://www.draw.io/) - Open source Flowchart Maker and Online Diagram Software. Very useful for visualy bringing complex investigations / processes to life in an intuitive manner \
+[Visual Studio Code](https://code.visualstudio.com/) - A powerful and customizable code editor with multiple plugins that make it very versatile (such as the remote SSH or Git Graph) \
+[Notepad++](https://notepad-plus-plus.org/) - A notepad on steroids. Very powerful to manipulate quick texts and lines of thought (For linux, use [notepadqq](https://notepadqq.com/))
+
 ## Memory Debbuging & Reverse Engineering
 GHidra - Open source reverse engineering tool \
 Immunity Debugger - Reverse engineering tool (A great option if you are analyzing a Windows program) \
