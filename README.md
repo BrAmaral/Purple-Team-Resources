@@ -66,7 +66,30 @@ Manalyzer - https://manalyzer.org/ \
 ThreatMiner - https://www.threatminer.org/ \
 Pulsedive - https://pulsedive.com/ \
 IObit - https://cloud.iobit.com/index.php \
-Amnpardaz Sandbox - https://jevereg.amnpardaz.com/ 
+Amnpardaz Sandbox - https://jevereg.amnpardaz.com/ \
+
+### Cyber Threat Intelligence
+Vuldb - https://vuldb.com/ \
+Alien Vault - https://otx.alienvault.com/browse/global/indicators \
+Threat Fox - https://threatfox.abuse.ch/browse/ \
+ThreatMiner - https://www.threatminer.org/ \
+Malware Baazar - https://bazaar.abuse.ch/browse/ \
+Virus Total - https://www.virustotal.com/gui/home/search \
+Shodan - https://www.shodan.io/ \
+Censys - https://censys.io/ipv4 \
+Any-run - https://any.run/malware-trends/ \
+Crowdstrike Threat Profile - https://www.crowdstrike.com/adversaries/?ref=adversary.crowdstrike.com \
+SecureWorks Threat Profile - https://www.secureworks.com/research/threat-profiles \
+Dragos Threat Profile - https://www.dragos.com/threat-groups/ \
+Lab52 Threat Mapping Tool - https://lab52.io/ \
+Threat Actor Map - https://aptmap.netlify.app/ \
+Nation State Cyber Operation Map - https://www.cfr.org/cyber-operations/ \
+Malpedia - https://malpedia.caad.fkie.fraunhofer.de/ \
+Intezer OST Map - https://intezer.com/ost-map/ \
+Ransom Wiki - https://ransom.wiki/ \
+PulseDive Ransomware Feed - https://pulsedive.com/threat/Ransomware \
+PulseDive Threat Feed - https://pulsedive.com/explore/threats/
+
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
