@@ -40,7 +40,8 @@ ThreatMiner - https://www.threatminer.org/ \
 Pulsedive - https://pulsedive.com/ \
 WhereGoes - https://wheregoes.com/ \
 RedirectDetective - https://redirectdetective.com/ \
-RedirectTracker - https://www.redirecttracker.com/
+RedirectTracker - https://www.redirecttracker.com/ \
+Bulkblacklist - https://www.bulkblacklist.com/
 
 ### Malware Check & Dynamic Analysis
 Virus Total - https://www.virustotal.com \
@@ -66,7 +67,7 @@ Manalyzer - https://manalyzer.org/ \
 ThreatMiner - https://www.threatminer.org/ \
 Pulsedive - https://pulsedive.com/ \
 IObit - https://cloud.iobit.com/index.php \
-Amnpardaz Sandbox - https://jevereg.amnpardaz.com/ \
+Amnpardaz Sandbox - https://jevereg.amnpardaz.com/
 
 ### Cyber Threat Intelligence
 Vuldb - https://vuldb.com/ \
