@@ -64,6 +64,10 @@ If you've created a Ubuntu docker container but it terminates right after you st
 If you need to access the shell of a running Docker container, do:
 `docker exec -it <container_id_or_name> /bin/bash`
 
+## How to delete all containers in the system
+If you need to delete all the containers in a system, you can do that by running the command:
+`sudo docker rm $(sudo docker ps -aq)`
+
 ## References
 1. https://www.howtogeek.com/devops/how-to-share-docker-images-with-others/
 2. https://stackoverflow.com/questions/30090946/how-to-enter-bash-of-an-ubuntu-docker-container
