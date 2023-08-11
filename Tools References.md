@@ -137,3 +137,8 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 [Tails](https://tails.boum.org/install/download/) - A privacy oriented distro for anonymous operations \
 [Kali Purple](https://www.kali.org/get-kali/) - A purple team oriented kali distro \
 [Remnux](https://docs.remnux.org/install-distro/get-virtual-appliance) - A linux toolkit for reverse-engineering and analyzing malicious software
+
+## Tool Lists
+[CISA Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools) - CISA has compiled a list of free cybersecurity tools and services to help organizations further advance their security capabilities \
+[SANS Cyber Tools](https://www.sans.org/tools/) - SANS Instructors have built open source cyber security tools that support your work and help you implement better security. Search the lists to find the free tools available to help you get the job done.
+
