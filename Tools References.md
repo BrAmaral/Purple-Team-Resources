@@ -138,6 +138,21 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 [Kali Purple](https://www.kali.org/get-kali/) - A purple team oriented kali distro \
 [Remnux](https://docs.remnux.org/install-distro/get-virtual-appliance) - A linux toolkit for reverse-engineering and analyzing malicious software
 
+### Malware Removal Tools
+[Sophos Scan & Clean](https://www.sophos.com/en-us/free-tools/virus-removal-tool) - "Sophos Scan & Clean is a free, no-install, second-opinion virus removal scanner designed to rescue computers that have become infected with advanced zero-day malware, spyware, Trojans, rootkits, and other threats capable of evading real-time protection from up-to-date antivirus software." \
+[Sophos HitmanPro](https://www.sophos.com/en-us/free-tools/hitmanpro) - "Our malware removal tool for Windows scans your entire computer for any issues. If anything is found, you’ll have a free 30-day license to remove the threat" \
+[Norton Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - "Eliminates deeply embedded and difficult-to-detect crimeware that traditional virus scanning doesn’t always detect." \
+[Kaspersky Virus Removal Tool](https://usa.kaspersky.com/downloads/free-virus-removal-tool) - "Helps remove malware from your PC if it’s been infected." \
+[Microsoft Software Removal Tool](https://www.microsoft.com/en-us/download/details.aspx?id=9905) - "Windows Malicious Software Removal Tool (MSRT) helps keep Windows computers free from prevalent malware. MSRT finds and removes threats and reverses the changes made by these threats." \
+[Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) - "The world’s most popular adware cleaner finds and removes unwanted programs and junkware so your online experience stays optimal and hassle-free."
+
+### Rescue Disks
+[Trend Micro Rescue Disk](https://www.trendmicro.com/en_us/forHome/products/free-tools/rescue-disk.html) - "Trend Micro Rescue Disk allows you to use a CD, DVD, or USB drive to examine your computer without launching Microsoft Windows. It finds and removes persistent or difficult-to-clean security threats that can lurk deep within your operating system." \
+[Kaspersky Rescue Disk](https://usa.kaspersky.com/downloads/free-rescue-disk) - "Disinfects your PC when you can’t boot the operating system."
+
+### Tech Support & Troubleshoot
+[Anydesk Remote Desktop Tool](https://anydesk.com/en/downloads/windows) - A powerful Remote Desktop tool that does not require installation.
+
 ## Tool Lists
 [CISA Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools) - CISA has compiled a list of free cybersecurity tools and services to help organizations further advance their security capabilities \
 [SANS Cyber Tools](https://www.sans.org/tools/) - SANS Instructors have built open source cyber security tools that support your work and help you implement better security. Search the lists to find the free tools available to help you get the job done.
