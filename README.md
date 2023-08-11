@@ -1,5 +1,5 @@
 # Purple Team Resources
-A curated list of tools and resources that I use daily as a Purple-Team operator. Enjoy!
+A curated list of online tools and resources that I use daily as a Purple-Team operator. Enjoy!
 
 ## Blue Team Resources
 ---
@@ -95,21 +95,6 @@ Intezer OST Map - https://intezer.com/ost-map/ \
 Ransom Wiki - https://ransom.wiki/ \
 PulseDive Ransomware Feed - https://pulsedive.com/threat/Ransomware \
 PulseDive Threat Feed - https://pulsedive.com/explore/threats/
-
-### Malware Removal Tools
-Sophos Scan & Clean - https://www.sophos.com/en-us/free-tools/virus-removal-tool \
-Sophos HitmanPro - https://www.sophos.com/en-us/free-tools/hitmanpro \
-Norton Power Eraser - https://support.norton.com/sp/static/external/tools/npe.html \
-Kaspersky Virus Removal Tool - https://www.kaspersky.com.br/downloads/free-virus-removal-tool \
-Microsoft Software Removal Tool - https://www.microsoft.com/en-us/download/details.aspx?id=9905 \
-Malwarebytes AdwCleaner - https://www.malwarebytes.com/adwcleaner 
-
-### Rescue Disks
-Trend Micro Rescue Disk - https://www.trendmicro.com/en_us/forHome/products/free-tools/rescue-disk.html \
-Kaspersky Rescue Disk - https://www.kaspersky.com.br/downloads/free-rescue-disk 
-
-### Tech Support & Troubleshoot
-Anydesk Remote Desktop Tool - https://anydesk.com/en/downloads/windows
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
