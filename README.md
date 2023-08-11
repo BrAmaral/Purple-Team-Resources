@@ -72,6 +72,7 @@ Amnpardaz Sandbox - https://jevereg.amnpardaz.com/
 ### Cyber Threat Intelligence
 Vuldb - https://vuldb.com/ \
 Alien Vault - https://otx.alienvault.com/browse/global/indicators \
+IBM X-Force Exchange- https://exchange.xforce.ibmcloud.com/ \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 ThreatMiner - https://www.threatminer.org/ \
 Malware Baazar - https://bazaar.abuse.ch/browse/ \
