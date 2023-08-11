@@ -76,6 +76,7 @@ IBM X-Force Exchange- https://exchange.xforce.ibmcloud.com/ \
 Risk IQ Community - https://community.riskiq.com/home \
 Feedly - https://feedly.com/ \
 Mandiant Threat Intelligence - https://www.mandiant.com/advantage/threat-intelligence/free-version \
+VmWare Carbon Black - https://community.carbonblack.com/ \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 ThreatMiner - https://www.threatminer.org/ \
 Malware Baazar - https://bazaar.abuse.ch/browse/ \
