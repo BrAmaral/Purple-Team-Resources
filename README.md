@@ -113,7 +113,6 @@ Anydesk Remote Desktop Tool - https://anydesk.com/en/downloads/windows
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
-Blue Team Academy - https://www.blueteamsacademy.com/ \
 Cyber Defenders - https://cyberdefenders.org/
 
 ### Forensic Analysis Resources
