@@ -79,7 +79,8 @@ Dirbuster - Directory Buster \
 [nuclei](https://github.com/projectdiscovery/nuclei) - Community Powered Vulnerability Scanner from Project Discovery \
 [Osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security \
 [wapiti3](https://wapiti-scanner.github.io/) - Very reliable web application vulnerability scanner \
-[nikto](https://github.com/sullo/nikto) - A web server vulnerability scanner
+[nikto](https://github.com/sullo/nikto) - A web server vulnerability scanner \
+[Nessus](https://www.tenable.com/products/nessus/nessus-essentials) - A powerful server-based vulnerability scanner
 
 ## Documentation, Planning & Scripting
 [Vectr](https://vectr.io/) - A powerful platform to plan and track cybersecurity operations (both Blue & Red) mapped with the MITRE ATT&CK. \
@@ -96,6 +97,7 @@ Dirbuster - Directory Buster \
 ## Memory Debbuging & Reverse Engineering
 GHidra - Open source reverse engineering tool \
 Immunity Debugger - Reverse engineering tool (A great option if you are analyzing a Windows program) \
+[CrowdDetox](https://www.crowdstrike.com/resources/community-tools/crowddetox/) - The CrowdDetox plugin for Hex-Rays automatically removes junk code and variables from Hex-Rays function decompilations. Made by Crowdstrike
 
 ## Malware Analysis
 Process Hacker - A program that monitor system resources, debug software and detect malware \
@@ -134,11 +136,17 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 ## Distros
 [Kali Linux](https://www.kali.org/get-kali/) - Most popular distro for pentesters \
 [Parrot Security](https://www.parrotsec.org/download/) - A security oriented distro \
-[Tails](https://tails.boum.org/install/download/) - A privacy oriented distro for anonymous operations \
+[Tails](https://tails.boum.org/install/download/) - A privacy oriented distro for anonymous operations meant to be used via Live USB \
+[Whonix](https://www.whonix.org/) - A privacy oriented distro for anonymous operations meant to be used as a VM \
 [Kali Purple](https://www.kali.org/get-kali/) - A purple team oriented kali distro \
-[Remnux](https://docs.remnux.org/install-distro/get-virtual-appliance) - A linux toolkit for reverse-engineering and analyzing malicious software
+[Remnux](https://docs.remnux.org/install-distro/get-virtual-appliance) - A linux toolkit for reverse-engineering and analyzing malicious software \
+[OSINTVM](https://github.com/tracelabs/tlosint-vm/releases) - A virtual machine made to conduct OSINT operations \
+[ThreatPursuit](https://github.com/mandiant/ThreatPursuit-VM) - A Windows based VM configuration file for Threat Intelligence Operations made by Mandiant\
+[Flare-VM](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM. Made by Mandiant \
+[Commando-VM](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution.
 
-### Malware Removal Tools
+
+## Malware Removal Tools
 [Sophos Scan & Clean](https://www.sophos.com/en-us/free-tools/virus-removal-tool) - "Sophos Scan & Clean is a free, no-install, second-opinion virus removal scanner designed to rescue computers that have become infected with advanced zero-day malware, spyware, Trojans, rootkits, and other threats capable of evading real-time protection from up-to-date antivirus software." \
 [Sophos HitmanPro](https://www.sophos.com/en-us/free-tools/hitmanpro) - "Our malware removal tool for Windows scans your entire computer for any issues. If anything is found, you’ll have a free 30-day license to remove the threat" \
 [Norton Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - "Eliminates deeply embedded and difficult-to-detect crimeware that traditional virus scanning doesn’t always detect." \
@@ -146,14 +154,20 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 [Microsoft Software Removal Tool](https://www.microsoft.com/en-us/download/details.aspx?id=9905) - "Windows Malicious Software Removal Tool (MSRT) helps keep Windows computers free from prevalent malware. MSRT finds and removes threats and reverses the changes made by these threats." \
 [Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) - "The world’s most popular adware cleaner finds and removes unwanted programs and junkware so your online experience stays optimal and hassle-free."
 
-### Rescue Disks
+## Rescue Disks
 [Trend Micro Rescue Disk](https://www.trendmicro.com/en_us/forHome/products/free-tools/rescue-disk.html) - "Trend Micro Rescue Disk allows you to use a CD, DVD, or USB drive to examine your computer without launching Microsoft Windows. It finds and removes persistent or difficult-to-clean security threats that can lurk deep within your operating system." \
 [Kaspersky Rescue Disk](https://usa.kaspersky.com/downloads/free-rescue-disk) - "Disinfects your PC when you can’t boot the operating system."
 
-### Tech Support & Troubleshoot
+## Tech Support & Troubleshoot
 [Anydesk Remote Desktop Tool](https://anydesk.com/en/downloads/windows) - A powerful Remote Desktop tool that does not require installation.
+
+## Host Based Malicious Behavior Detection Tools
+[CrowdtInspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - A Host-Based Process Inspection made by Crowdstrike
+
+## Privacy Tools
+[Tortilla](https://www.crowdstrike.com/resources/community-tools/tortilla-tool/) - Tortilla is an open source tool that allows users to securely, anonymously, and transparently route all TCP/IP and DNS traffic through Tor, regardless of the client software, and without relying on VPNs or additional hardware or virtual machines. Made by Crowdstrike
 
 ## Tool Lists
 [CISA Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools) - CISA has compiled a list of free cybersecurity tools and services to help organizations further advance their security capabilities \
-[SANS Cyber Tools](https://www.sans.org/tools/) - SANS Instructors have built open source cyber security tools that support your work and help you implement better security. Search the lists to find the free tools available to help you get the job done.
-
+[SANS Cyber Tools](https://www.sans.org/tools/) - SANS Instructors have built open source cyber security tools that support your work and help you implement better security. Search the lists to find the free tools available to help you get the job done. \
+[Privacy-tools](https://www.privacytools.io/) - A huge list of privacy oriented tools
