@@ -99,6 +99,9 @@ GHidra - Open source reverse engineering tool \
 Immunity Debugger - Reverse engineering tool (A great option if you are analyzing a Windows program) \
 [CrowdDetox](https://www.crowdstrike.com/resources/community-tools/crowddetox/) - The CrowdDetox plugin for Hex-Rays automatically removes junk code and variables from Hex-Rays function decompilations. Made by Crowdstrike
 
+## Memory Cleaning / HDD Recycling
+[DBAN](https://dban.org/) - Darik`s boot and nuke tool for overwriting memory.
+
 ## Malware Analysis
 Process Hacker - A program that monitor system resources, debug software and detect malware \
 [dnSpy](https://github.com/dnSpy/dnSpy) - Debugger and .NET assembly editor \
@@ -145,7 +148,6 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 [Flare-VM](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM. Made by Mandiant \
 [Commando-VM](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution.
 
-
 ## Malware Removal Tools
 [Sophos Scan & Clean](https://www.sophos.com/en-us/free-tools/virus-removal-tool) - "Sophos Scan & Clean is a free, no-install, second-opinion virus removal scanner designed to rescue computers that have become infected with advanced zero-day malware, spyware, Trojans, rootkits, and other threats capable of evading real-time protection from up-to-date antivirus software." \
 [Sophos HitmanPro](https://www.sophos.com/en-us/free-tools/hitmanpro) - "Our malware removal tool for Windows scans your entire computer for any issues. If anything is found, you’ll have a free 30-day license to remove the threat" \
@@ -156,7 +158,8 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 
 ## Rescue Disks
 [Trend Micro Rescue Disk](https://www.trendmicro.com/en_us/forHome/products/free-tools/rescue-disk.html) - "Trend Micro Rescue Disk allows you to use a CD, DVD, or USB drive to examine your computer without launching Microsoft Windows. It finds and removes persistent or difficult-to-clean security threats that can lurk deep within your operating system." \
-[Kaspersky Rescue Disk](https://usa.kaspersky.com/downloads/free-rescue-disk) - "Disinfects your PC when you can’t boot the operating system."
+[Kaspersky Rescue Disk](https://usa.kaspersky.com/downloads/free-rescue-disk) - "Disinfects your PC when you can’t boot the operating system." \
+[Dr.Web Live Disk](https://free.drweb.com/aid_admin/) - "FREE emergency system repair from a DVD disk or a bootable USB drive to be used if your Windows system is rendered non-bootable by malware"
 
 ## Tech Support & Troubleshoot
 [Anydesk Remote Desktop Tool](https://anydesk.com/en/downloads/windows) - A powerful Remote Desktop tool that does not require installation.
