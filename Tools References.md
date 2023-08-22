@@ -80,7 +80,8 @@ Dirbuster - Directory Buster \
 [Osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security \
 [wapiti3](https://wapiti-scanner.github.io/) - Very reliable web application vulnerability scanner \
 [nikto](https://github.com/sullo/nikto) - A web server vulnerability scanner \
-[Nessus](https://www.tenable.com/products/nessus/nessus-essentials) - A powerful server-based vulnerability scanner
+[Nessus](https://www.tenable.com/products/nessus/nessus-essentials) - A powerful server-based vulnerability scanner \
+[Trend Micro for Home Networks](https://www.trendmicro.com/en_us/forHome/products/housecall/home-networks.html) - "HouseCall for Home Networks identifies all of the devices connected to your home Wi-Fi network, scans them for vulnerabilities, and gives you recommendations on how to protect them."
 
 ## Documentation, Planning & Scripting
 [Vectr](https://vectr.io/) - A powerful platform to plan and track cybersecurity operations (both Blue & Red) mapped with the MITRE ATT&CK. \
@@ -154,7 +155,11 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 [Norton Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - "Eliminates deeply embedded and difficult-to-detect crimeware that traditional virus scanning doesn’t always detect." \
 [Kaspersky Virus Removal Tool](https://usa.kaspersky.com/downloads/free-virus-removal-tool) - "Helps remove malware from your PC if it’s been infected." \
 [Microsoft Software Removal Tool](https://www.microsoft.com/en-us/download/details.aspx?id=9905) - "Windows Malicious Software Removal Tool (MSRT) helps keep Windows computers free from prevalent malware. MSRT finds and removes threats and reverses the changes made by these threats." \
-[Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) - "The world’s most popular adware cleaner finds and removes unwanted programs and junkware so your online experience stays optimal and hassle-free."
+[Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) - "The world’s most popular adware cleaner finds and removes unwanted programs and junkware so your online experience stays optimal and hassle-free." \
+[Trend Micro HouseCall](https://www.trendmicro.com/en_us/forHome/products/housecall.html) - "...A free scanner that detects and cleans viruses, worms, malware, spyware, and other malicious threats that can harm computers and laptops." \
+[Kaspersky TDSS Killer](https://usa.kaspersky.com/content/custom/global/tdsskiller/tdsskiller.html) - This is a standalone rootkit remover tool. \
+[Dr.Web Cureit!](https://free.drweb.com/download+cureit+free/?lng=en) - A malware removal tool by Dr.Web
+
 
 ## Rescue Disks
 [Trend Micro Rescue Disk](https://www.trendmicro.com/en_us/forHome/products/free-tools/rescue-disk.html) - "Trend Micro Rescue Disk allows you to use a CD, DVD, or USB drive to examine your computer without launching Microsoft Windows. It finds and removes persistent or difficult-to-clean security threats that can lurk deep within your operating system." \
