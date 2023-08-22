@@ -81,7 +81,7 @@ Dirbuster - Directory Buster \
 [wapiti3](https://wapiti-scanner.github.io/) - Very reliable web application vulnerability scanner \
 [nikto](https://github.com/sullo/nikto) - A web server vulnerability scanner \
 [Nessus](https://www.tenable.com/products/nessus/nessus-essentials) - A powerful server-based vulnerability scanner \
-[Trend Micro for Home Networks](https://www.trendmicro.com/en_us/forHome/products/housecall/home-networks.html) - "HouseCall for Home Networks identifies all of the devices connected to your home Wi-Fi network, scans them for vulnerabilities, and gives you recommendations on how to protect them."
+[Trend Micro for Home Networks](https://www.trendmicro.com/en_us/forHome/products/housecall/home-networks.html) - "HouseCall for Home Networks identifies all of the devices connected to your home Wi-Fi network, scans them for vulnerabilities, and gives you recommendations on how to protect them.". In order to work it must be installed on the system.
 
 ## Documentation, Planning & Scripting
 [Vectr](https://vectr.io/) - A powerful platform to plan and track cybersecurity operations (both Blue & Red) mapped with the MITRE ATT&CK. \
@@ -114,7 +114,6 @@ ProcDOT - A program to be used in conjunction with Process Monitor. It merges re
 Wireshark - A network sniffer and protocol analyzer \
 PEstudio - A program to statically analyzing malware \
 [DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - A program for determining types of files
-
 
 ## Active Directory Environment Reconnaissance & Exploitation
 [Bloodhound](https://github.com/BloodHoundAD/BloodHound) - A framework of tools that helps in collecting and visualizing data from the AD / network \
@@ -149,17 +148,18 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 [Flare-VM](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM. Made by Mandiant \
 [Commando-VM](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution.
 
-## Malware Removal Tools
-[Sophos Scan & Clean](https://www.sophos.com/en-us/free-tools/virus-removal-tool) - "Sophos Scan & Clean is a free, no-install, second-opinion virus removal scanner designed to rescue computers that have become infected with advanced zero-day malware, spyware, Trojans, rootkits, and other threats capable of evading real-time protection from up-to-date antivirus software." \
-[Sophos HitmanPro](https://www.sophos.com/en-us/free-tools/hitmanpro) - "Our malware removal tool for Windows scans your entire computer for any issues. If anything is found, you’ll have a free 30-day license to remove the threat" \
-[Norton Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - "Eliminates deeply embedded and difficult-to-detect crimeware that traditional virus scanning doesn’t always detect." \
-[Kaspersky Virus Removal Tool](https://usa.kaspersky.com/downloads/free-virus-removal-tool) - "Helps remove malware from your PC if it’s been infected." \
-[Microsoft Software Removal Tool](https://www.microsoft.com/en-us/download/details.aspx?id=9905) - "Windows Malicious Software Removal Tool (MSRT) helps keep Windows computers free from prevalent malware. MSRT finds and removes threats and reverses the changes made by these threats." \
-[Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) - "The world’s most popular adware cleaner finds and removes unwanted programs and junkware so your online experience stays optimal and hassle-free." \
-[Trend Micro HouseCall](https://www.trendmicro.com/en_us/forHome/products/housecall.html) - "...A free scanner that detects and cleans viruses, worms, malware, spyware, and other malicious threats that can harm computers and laptops." \
-[Kaspersky TDSS Killer](https://usa.kaspersky.com/content/custom/global/tdsskiller/tdsskiller.html) - This is a standalone rootkit remover tool. \
-[Dr.Web Cureit!](https://free.drweb.com/download+cureit+free/?lng=en) - A malware removal tool by Dr.Web
+## Standalone Malware Removal Tools
+[Sophos Scan & Clean](https://www.sophos.com/en-us/free-tools/virus-removal-tool) - "Sophos Scan & Clean is a free, no-install, second-opinion virus removal scanner designed to rescue computers that have become infected with advanced zero-day malware, spyware, Trojans, rootkits, and other threats capable of evading real-time protection from up-to-date antivirus software.". No installation required \
+[Sophos HitmanPro](https://www.sophos.com/en-us/free-tools/hitmanpro) - "Our malware removal tool for Windows scans your entire computer for any issues. If anything is found, you’ll have a free 30-day license to remove the threat". No installation required \
+[Norton Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - "Eliminates deeply embedded and difficult-to-detect crimeware that traditional virus scanning doesn’t always detect.". No installation required \
+[Kaspersky Virus Removal Tool](https://usa.kaspersky.com/downloads/free-virus-removal-tool) - "Helps remove malware from your PC if it’s been infected.". No installation required \
+[Microsoft Software Removal Tool](https://www.microsoft.com/en-us/download/details.aspx?id=9905) - "Windows Malicious Software Removal Tool (MSRT) helps keep Windows computers free from prevalent malware. MSRT finds and removes threats and reverses the changes made by these threats.". No installation required \
+[Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) - "The world’s most popular adware cleaner finds and removes unwanted programs and junkware so your online experience stays optimal and hassle-free.". No installation required \
+[Trend Micro HouseCall](https://www.trendmicro.com/en_us/forHome/products/housecall.html) - "...A free scanner that detects and cleans viruses, worms, malware, spyware, and other malicious threats that can harm computers and laptops.". No installation required \
+[Dr.Web Cureit!](https://free.drweb.com/download+cureit+free/?lng=en) - A malware removal tool by "Dr.Web". No installation required
 
+## Ransomware Protection Tools
+[Kaspersky Anti-Ransomware Tool](https://www.kaspersky.com/anti-ransomware-tool) - This is an anti-ransomware tool made by kaspersky that can run along with any anti-virus solution. In order to work it must be installed on the system.
 
 ## Rescue Disks
 [Trend Micro Rescue Disk](https://www.trendmicro.com/en_us/forHome/products/free-tools/rescue-disk.html) - "Trend Micro Rescue Disk allows you to use a CD, DVD, or USB drive to examine your computer without launching Microsoft Windows. It finds and removes persistent or difficult-to-clean security threats that can lurk deep within your operating system." \
@@ -167,7 +167,8 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 [Dr.Web Live Disk](https://free.drweb.com/aid_admin/) - "FREE emergency system repair from a DVD disk or a bootable USB drive to be used if your Windows system is rendered non-bootable by malware"
 
 ## Tech Support & Troubleshoot
-[Anydesk Remote Desktop Tool](https://anydesk.com/en/downloads/windows) - A powerful Remote Desktop tool that does not require installation.
+[Anydesk Remote Desktop Tool](https://anydesk.com/en/downloads/windows) - A powerful Remote Desktop tool that does not require installation. \
+[Hiren's Boot](https://www.hirensbootcd.org/) - A powerful live OS used for troubleshooting windows systems. Very popular among tech support teams.
 
 ## Host Based Malicious Behavior Detection Tools
 [CrowdtInspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - A Host-Based Process Inspection made by Crowdstrike
