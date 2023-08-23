@@ -151,7 +151,8 @@ ProcDOT - A program to be used in conjunction with Process Monitor. It merges re
 ### Host Based Malicious Behavior Detection Tools
 [CrowdtInspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - A Host-Based Process Inspection made by Crowdstrike \
 [FireEye's Redline](https://fireeye.market/apps/211364) - A free endpoint forensic tool that helps finding signs of malicious activity through memory and file analysis and the development of a threat assessment profile. \
-[FireEye's IOC Finder](https://fireeye.market/apps/211408) - A program to collect and extract IOCs from an endpoint.
+[FireEye's IOC Finder](https://fireeye.market/apps/211408) - A program to collect and extract IOCs from an endpoint. \
+[AlienVault's Open Threat Exchange](https://otx.alienvault.com/) - This is an open threat intelligence community managed by AlienVault with endpoint scanning capabilities. The agent must be installed in order for the scan to work.
 
 ### Rescue Disks
 [Trend Micro Rescue Disk](https://www.trendmicro.com/en_us/forHome/products/free-tools/rescue-disk.html) - "Trend Micro Rescue Disk allows you to use a CD, DVD, or USB drive to examine your computer without launching Microsoft Windows. It finds and removes persistent or difficult-to-clean security threats that can lurk deep within your operating system." \
