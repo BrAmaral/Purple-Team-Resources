@@ -124,18 +124,23 @@ Immunity Debugger - Reverse engineering tool (A great option if you are analyzin
 ### Disk Wiping / HDD Recycling
 [DBAN](https://dban.org/) - Darik`s boot and nuke tool for overwriting memory.
 
-### Malware Analysis
+### Host / Artifact Analysis
 [dnSpy](https://github.com/dnSpy/dnSpy) - Debugger and .NET assembly editor \
 [TCPView](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview) -  A program that show you detailed listings of all TCP and UDP endpoints on your system \
 [AutoRuns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Program that shows auto-start applications on the system \
 [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)  - A program that shows you information about which handles and DLLs processes have opened or loaded \
-Process Monitor - An advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity \
-ProcDOT - A program to be used in conjunction with Process Monitor. It merges results from Wireshark and Process Monitor and create comprehensive views. \
 [Wireshark](https://www.wireshark.org/download.html) - A network sniffer and protocol analyzer \
 [PEstudio](https://www.winitor.com/) - A program to statically analyzing malware \
-[DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - A program for determining types of files
+[DetectItEasy](https://github.com/horsicq/Detect-It-Easy) - A program for determining types of files \
+[CrowdtInspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - A Host-Based Process Inspection made by Crowdstrike \
+[FireEye's Redline](https://fireeye.market/apps/211364) - A free endpoint forensic tool that helps finding signs of malicious activity through memory and file analysis and the development of a threat assessment profile. \
+[FireEye's IOC Finder](https://fireeye.market/apps/211408) - A program to collect and extract IOCs from an endpoint. \
+[AlienVault's Open Threat Exchange Agent](https://otx.alienvault.com/) - This is an open threat intelligence community managed by AlienVault with endpoint scanning capabilities. The agent must be installed in order for the scan to work. \
+[ESET SysInspector](https://www.eset.com/int/support/sysinspector/) - A tool that helps you troubleshoot issues and find suspicious behavior. \
+Process Monitor - An advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity \
+ProcDOT - A program to be used in conjunction with Process Monitor. It merges results from Wireshark and Process Monitor and create comprehensive views.
 
-### Standalone Malware Removal Tools
+### Standalone Portable Malware Removal Tools
 [Sophos Scan & Clean](https://www.sophos.com/en-us/free-tools/virus-removal-tool) - "Sophos Scan & Clean is a free, no-install, second-opinion virus removal scanner designed to rescue computers that have become infected with advanced zero-day malware, spyware, Trojans, rootkits, and other threats capable of evading real-time protection from up-to-date antivirus software.". No installation required \
 [Sophos HitmanPro](https://www.sophos.com/en-us/free-tools/hitmanpro) - "Our malware removal tool for Windows scans your entire computer for any issues. If anything is found, you’ll have a free 30-day license to remove the threat". No installation required \
 [Norton Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - "Eliminates deeply embedded and difficult-to-detect crimeware that traditional virus scanning doesn’t always detect.". No installation required \
@@ -143,16 +148,13 @@ ProcDOT - A program to be used in conjunction with Process Monitor. It merges re
 [Microsoft Software Removal Tool](https://www.microsoft.com/en-us/download/details.aspx?id=9905) - "Windows Malicious Software Removal Tool (MSRT) helps keep Windows computers free from prevalent malware. MSRT finds and removes threats and reverses the changes made by these threats.". No installation required \
 [Malwarebytes AdwCleaner](https://www.malwarebytes.com/adwcleaner) - "The world’s most popular adware cleaner finds and removes unwanted programs and junkware so your online experience stays optimal and hassle-free.". No installation required \
 [Trend Micro HouseCall](https://www.trendmicro.com/en_us/forHome/products/housecall.html) - "...A free scanner that detects and cleans viruses, worms, malware, spyware, and other malicious threats that can harm computers and laptops.". No installation required \
-[Dr.Web Cureit!](https://free.drweb.com/download+cureit+free/?lng=en) - A malware removal tool by "Dr.Web". No installation required
+[Dr.Web Cureit!](https://free.drweb.com/download+cureit+free/?lng=en) - A malware removal tool by "Dr.Web". No installation required \
+[Trellix Stinger](https://www.trellix.com/en-us/downloads/free-tools/stinger.html) - A malware removal tool by McAfee. No installation required. \
+[ESET Online Scanner](https://www.eset.com/int/home/online-scanner/) - A malware removal tool made by ESET. No installation required. \
+[Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergency-kit/) - A malware removal tool made by Emsisoft. No installation required.
 
 ### Ransomware Protection Tools
 [Kaspersky Anti-Ransomware Tool](https://www.kaspersky.com/anti-ransomware-tool) - This is an anti-ransomware tool made by kaspersky that can run along with any anti-virus solution. In order to work it must be installed on the system.
-
-### Host Based Malicious Behavior Detection Tools
-[CrowdtInspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - A Host-Based Process Inspection made by Crowdstrike \
-[FireEye's Redline](https://fireeye.market/apps/211364) - A free endpoint forensic tool that helps finding signs of malicious activity through memory and file analysis and the development of a threat assessment profile. \
-[FireEye's IOC Finder](https://fireeye.market/apps/211408) - A program to collect and extract IOCs from an endpoint. \
-[AlienVault's Open Threat Exchange](https://otx.alienvault.com/) - This is an open threat intelligence community managed by AlienVault with endpoint scanning capabilities. The agent must be installed in order for the scan to work.
 
 ### Rescue Disks
 [Trend Micro Rescue Disk](https://www.trendmicro.com/en_us/forHome/products/free-tools/rescue-disk.html) - "Trend Micro Rescue Disk allows you to use a CD, DVD, or USB drive to examine your computer without launching Microsoft Windows. It finds and removes persistent or difficult-to-clean security threats that can lurk deep within your operating system." \
@@ -187,4 +189,5 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 ### Tool Lists
 [CISA Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools) - CISA has compiled a list of free cybersecurity tools and services to help organizations further advance their security capabilities \
 [SANS Cyber Tools](https://www.sans.org/tools/) - SANS Instructors have built open source cyber security tools that support your work and help you implement better security. Search the lists to find the free tools available to help you get the job done. \
-[Privacy-tools](https://www.privacytools.io/) - A huge list of privacy oriented tools
+[Privacy-tools](https://www.privacytools.io/) - A huge list of privacy oriented tools \
+[Reddit Antivirus Thread](https://old.reddit.com/r/antivirus/wiki/index#wiki_free_tools) - A very good collection of security programs
