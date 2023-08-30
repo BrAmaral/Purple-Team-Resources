@@ -150,8 +150,7 @@ ProcDOT - A program to be used in conjunction with Process Monitor. It merges re
 [Trend Micro HouseCall](https://www.trendmicro.com/en_us/forHome/products/housecall.html) - "...A free scanner that detects and cleans viruses, worms, malware, spyware, and other malicious threats that can harm computers and laptops.". No installation required \
 [Dr.Web Cureit!](https://free.drweb.com/download+cureit+free/?lng=en) - A malware removal tool by "Dr.Web". No installation required \
 [Trellix Stinger](https://www.trellix.com/en-us/downloads/free-tools/stinger.html) - A malware removal tool by McAfee. No installation required. \
-[ESET Online Scanner](https://www.eset.com/int/home/online-scanner/) - A malware removal tool made by ESET. No installation required. \
-[Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergency-kit/) - A malware removal tool made by Emsisoft. No installation required.
+[ESET Online Scanner](https://www.eset.com/int/home/online-scanner/) - A malware removal tool made by ESET. No installation required. 
 
 ### Ransomware Protection Tools
 [Kaspersky Anti-Ransomware Tool](https://www.kaspersky.com/anti-ransomware-tool) - This is an anti-ransomware tool made by kaspersky that can run along with any anti-virus solution. In order to work it must be installed on the system.
