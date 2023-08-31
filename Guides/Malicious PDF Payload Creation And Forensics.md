@@ -70,6 +70,9 @@ Another way of doing it is downloading [Remnux](https://docs.remnux.org/install-
 2. Do `peepdf -f -i <filename>.pdf`
 3. After that, select the objects that you want to see with `object <number>` and analyze them
 
+---
+Yet another way of analyzing a pdf file is using  [Remnux's](https://docs.remnux.org/install-distro/get-virtual-appliance) `pdfextract` to extract all elements within it. Simply do `pdfextract <filename>` and you are good to go.
+
 Some tips:
 > 1. The presence of objects such as `/JS`, `/JavaScript`, `/OpenAction`, `/AA`, `/Launch` in a PDF are highly suspicious;
 > 2. The occurence of obfuscated content indicates likely malicious intent
