@@ -19,7 +19,9 @@ Links:
 [breachparse](https://github.com/hmaverickadams/breach-parse) - Search for breached data \
 [gitleaks](https://github.com/zricethezav/gitleaks) - SAST tool for finding secrets in github repos \
 [trufflehog](https://github.com/trufflesecurity/trufflehog) - SAST tool for finding secrets in github repos \
-[shhgit](https://github.com/eth0izzle/shhgit) - SAST tool for finding secrets in github repos
+[shhgit](https://github.com/eth0izzle/shhgit) - SAST tool for finding secrets in github repos \
+[creepy](https://github.com/ilektrojohn/creepy) - A geolocation tool that gathers geolocation related information from online sources\
+[geowifi](https://github.com/GONZOsint/geowifi) - A geolocation tool that works by looking for data by BSSID and SSID on different public databases
 
 ### Password Cracking
 John The Ripper - Crack hashes \
