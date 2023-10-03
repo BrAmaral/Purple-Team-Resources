@@ -5,16 +5,17 @@ Links:
 ## Red Team Tools
 ### OSINT
 [Sherlock](https://github.com/sherlock-project/sherlock) - Find username information \
+[Nexfil](https://github.com/thewhiteh4t/nexfil) - Find username information \
 [social-analyzer](https://github.com/qeeqbox/social-analyzer) - Find username and profile information \
 [maigret](https://github.com/soxoj/maigret) - Find username and profile information \
-[Th3Inspector](https://github.com/Moham3dRiahi/Th3inspector) - OSINT Framework mostly for machines \
+[profil3r](https://github.com/Greyjedix/Profil3r) - Find username information \
+[blackbird](https://github.com/p1ngul1n0/blackbird) - Find valid accounts in different platforms using an username \
 [holehe](https://github.com/megadose/holehe) - Find e-mail information \
 [twint](https://github.com/twintproject/twint) - Find twitter account information \
+[Th3Inspector](https://github.com/Moham3dRiahi/Th3inspector) - OSINT Framework mostly for machines \
 [exiftool](https://github.com/exiftool/exiftool) - Read metadata from images \
 [recon-ng](recon-ng) - OSINT Framework multiuse \
 [TheHarvester](https://github.com/laramies/theHarvester) - Gather IP and E-mail information \
-[profil3r](https://github.com/Greyjedix/Profil3r) - Find username information \
-[blackbird](https://github.com/p1ngul1n0/blackbird) - Find valid accounts in different platforms using an username \
 [metagoofil](https://github.com/laramies/metagoofil) - Search for leaked documents \
 [breachparse](https://github.com/hmaverickadams/breach-parse) - Search for breached data \
 [gitleaks](https://github.com/zricethezav/gitleaks) - SAST tool for finding secrets in github repos \
