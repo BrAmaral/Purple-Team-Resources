@@ -75,15 +75,19 @@ Links:
 	- [ ] Company Name
 	- [ ] Market
 	- [ ] Type
+ 	- [ ] History
 	- [ ] Structure
 	- [ ] Related Companies / Brands
 	- [ ] Office Location / Addresses
 	- [ ] Creation date
-	- [ ] Revenue
-	- [ ] Average Salary
+ 	- [ ] Registry Number
+  	- [ ] Applications 
+	- [ ] Revenue Estimation
+	- [ ] Average Salary Range
 	- [ ] Size
+ 	- [ ] Capital 
 - [ ] Executive Board Information
-	- [ ] CEO
+	- [ ] C-Board
 	- [ ] VPs
 	- [ ] Other Executives (For each business unit, if any)
 		- [ ] Head of Finance
@@ -98,11 +102,21 @@ Links:
 	- [ ] Cyber Security Team Members
 	- [ ] DevOps / Engineers Team Members
 	- [ ] Support Team Members
+ 	- [ ] Database Engineers
+  	- [ ] Infrastructure Team Members 
+- [ ] Social Media Presence & Communications
+	- [ ] Job Platforms / Postings
+	- [ ] Social Media Profiles
+		- [ ] Sensitive Posts
+  	- [ ] E-mails and Phone Numbers
+	- [ ] Marketing Campaigns
+ 	- [ ] Documents 
 - [ ] Tech Infrastructure
 	- [ ] Used Technologies
 	- [ ] Domain and Web Applications
 		- [ ] Directories
 		- [ ] Subdomains
+		- [ ] Hardware and Appliances 
 		- [ ] Third Party Connections (Cloud buckets / CDNs)
 	- [ ] Internal Systems
 		- [ ] Documentation / Ticket Platforms (Confluence / Jira / Service Now)
@@ -118,11 +132,6 @@ Links:
 	- [ ] Cybercrime Activity
 		- [ ] Dark Web OSINT
 		- [ ] Suspicious Domains
-- [ ] Social Media Presence & Communications
-	- [ ] Job Platforms / Postings
-	- [ ] Social Media Profiles
-		- [ ] Sensitive Posts
-	- [ ] Marketing Campaigns
 
 ## Domain / Web Application Attack Surface Mapping & Enumeration
 
