@@ -182,7 +182,7 @@ sqlitebrowser - A visual tool used to create, design and edit database files com
 [Whonix](https://www.whonix.org/) - A privacy oriented distro for anonymous operations meant to be used as a VM \
 [Kali Purple](https://www.kali.org/get-kali/) - A purple team oriented kali distro \
 [Remnux](https://docs.remnux.org/install-distro/get-virtual-appliance) - A linux toolkit for reverse-engineering and analyzing malicious software \
-[OSINTVM](https://github.com/tracelabs/tlosint-vm/releases) - A virtual machine made to conduct OSINT operations \
+[TraceLabs OSINTVM](https://github.com/tracelabs/tlosint-vm/releases) - A virtual machine made to conduct OSINT operations \
 [ThreatPursuit](https://github.com/mandiant/ThreatPursuit-VM) - A Windows based VM configuration file for Threat Intelligence Operations made by Mandiant\
 [Flare-VM](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM. Made by Mandiant \
 [Commando-VM](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution.
