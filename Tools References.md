@@ -14,15 +14,16 @@ Links:
 [twint](https://github.com/twintproject/twint) - Find twitter account information \
 [Th3Inspector](https://github.com/Moham3dRiahi/Th3inspector) - OSINT Framework mostly for machines \
 [exiftool](https://github.com/exiftool/exiftool) - Read metadata from images \
-[recon-ng](recon-ng) - OSINT Framework multiuse \
+[recon-ng](https://www.kali.org/tools/recon-ng/) - OSINT Framework multiuse \
 [TheHarvester](https://github.com/laramies/theHarvester) - Gather IP and E-mail information \
 [metagoofil](https://github.com/laramies/metagoofil) - Search for leaked documents \
 [breachparse](https://github.com/hmaverickadams/breach-parse) - Search for breached data \
 [gitleaks](https://github.com/zricethezav/gitleaks) - SAST tool for finding secrets in github repos \
 [trufflehog](https://github.com/trufflesecurity/trufflehog) - SAST tool for finding secrets in github repos \
 [shhgit](https://github.com/eth0izzle/shhgit) - SAST tool for finding secrets in github repos \
-[creepy](https://github.com/ilektrojohn/creepy) - A geolocation tool that gathers geolocation related information from online sources\
-[geowifi](https://github.com/GONZOsint/geowifi) - A geolocation tool that works by looking for data by BSSID and SSID on different public databases
+[creepy](https://github.com/ilektrojohn/creepy) - A geolocation tool that gathers geolocation related information from online sources \
+[geowifi](https://github.com/GONZOsint/geowifi) - A geolocation tool that works by looking for data by BSSID and SSID on different public databases \
+[metagoofil](https://www.kali.org/tools/metagoofil/) - Allows you to find leaked documents from a given company
 
 ### Password Cracking
 John The Ripper - Crack hashes \
@@ -36,7 +37,8 @@ SEToolkit - A Social Engineering toolkit containing multiple modules that are us
 PyPhisher - A phishing tool written in python \
 trape - A OSINT location tracker that uses phishing as a delivery vector \
 SingleFile - Website Cloner \
-httrack - Website Cloner
+httrack - Website Cloner \
+[evilginx2](https://github.com/kgretzky/evilginx2) - Man-In-The-Middle Phishing framework 
 
 ### Steganography
 Steghide - Check for, and hide files inside images or other files \
