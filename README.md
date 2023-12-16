@@ -7,6 +7,7 @@ A curated list of online tools and resources that I use daily as a Purple-Team o
 Virus Total - https://www.virustotal.com \
 Alien Vault - https://otx.alienvault.com/browse/global/indicators \
 SecurityTrails - https://securitytrails.com/list/ip/151.101.130.217 \
+GreyNoise - https://viz.greynoise.io \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 IP Quality Score - https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test \
 BrowserLeaks - https://browserleaks.com \
@@ -112,7 +113,8 @@ Incident Response Linux Cheatsheet - https://www.hackingarticles.in/incident-res
 OSINT Framework - https://osintframework.com/ \
 OSINT Cheatsheet - https://www.cheatsheet.wtf/osint/ \
 FullContact API - https://platform.fullcontact.com/developers/api-keys \
-Gray Warfare - https://buckets.grayhatwarfare.com/ \
+Webmii - https://webmii.com \
+GrayHat Warfare - https://buckets.grayhatwarfare.com/ \
 ICANN Lookup - https://lookup.icann.org/en \
 cqcounter Whois - http://www.cqcounter.biz/whois/ \
 Subdomain Finder - https://subdomainfinder.c99.nl/ \
