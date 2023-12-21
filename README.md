@@ -113,6 +113,7 @@ Incident Response Linux Cheatsheet - https://www.hackingarticles.in/incident-res
 OSINT Framework - https://osintframework.com/ \
 OSINT Cheatsheet - https://www.cheatsheet.wtf/osint/ \
 FullContact API - https://platform.fullcontact.com/developers/api-keys \
+Intelius - https://www.intelius.com/ \
 Webmii - https://webmii.com \
 GrayHat Warfare - https://buckets.grayhatwarfare.com/ \
 ICANN Lookup - https://lookup.icann.org/en \
