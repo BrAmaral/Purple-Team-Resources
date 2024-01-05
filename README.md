@@ -74,10 +74,9 @@ Amnpardaz Sandbox - https://jevereg.amnpardaz.com/
 Vuldb - https://vuldb.com/ \
 Alien Vault OTX - https://otx.alienvault.com/browse/global/indicators \
 IBM X-Force Exchange- https://exchange.xforce.ibmcloud.com/ \
-Risk IQ Community - https://community.riskiq.com/home \
 Feedly - https://feedly.com/ \
-Mandiant Threat Intelligence - https://www.mandiant.com/advantage/threat-intelligence/free-version \
-VmWare Carbon Black - https://community.carbonblack.com/ \
+PulseDive Threat Feed - https://pulsedive.com/explore/threats/ \
+PulseDive Ransomware Feed - https://pulsedive.com/threat/Ransomware \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 ThreatMiner - https://www.threatminer.org/ \
 Malware Baazar - https://bazaar.abuse.ch/browse/ \
@@ -85,6 +84,9 @@ Virus Total - https://www.virustotal.com/gui/home/search \
 Shodan - https://www.shodan.io/ \
 Censys - https://censys.io/ipv4 \
 Any-run - https://any.run/malware-trends/ \
+Risk IQ Community - https://community.riskiq.com/home \
+Mandiant Threat Intelligence - https://www.mandiant.com/advantage/threat-intelligence/free-version \
+VmWare Carbon Black - https://community.carbonblack.com/ \
 Crowdstrike Threat Profile - https://www.crowdstrike.com/adversaries/?ref=adversary.crowdstrike.com \
 SecureWorks Threat Profile - https://www.secureworks.com/research/threat-profiles \
 Dragos Threat Profile - https://www.dragos.com/threat-groups/ \
@@ -94,9 +96,7 @@ Threat Actor Map - https://aptmap.netlify.app/ \
 Nation State Cyber Operation Map - https://www.cfr.org/cyber-operations/ \
 Malpedia - https://malpedia.caad.fkie.fraunhofer.de/ \
 Intezer OST Map - https://intezer.com/ost-map/ \
-Ransom Wiki - https://ransom.wiki/ \
-PulseDive Ransomware Feed - https://pulsedive.com/threat/Ransomware \
-PulseDive Threat Feed - https://pulsedive.com/explore/threats/
+Ransom Wiki - https://ransom.wiki/
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
