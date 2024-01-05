@@ -42,7 +42,8 @@ Pulsedive - https://pulsedive.com/ \
 WhereGoes - https://wheregoes.com/ \
 RedirectDetective - https://redirectdetective.com/ \
 RedirectTracker - https://www.redirecttracker.com/ \
-Bulkblacklist - https://www.bulkblacklist.com/
+Bulkblacklist - https://www.bulkblacklist.com/ \
+DocGuard - https://app.docguard.io/
 
 ### Malware Check & Dynamic Analysis
 Virus Total - https://www.virustotal.com \
@@ -68,7 +69,9 @@ Manalyzer - https://manalyzer.org/ \
 ThreatMiner - https://www.threatminer.org/ \
 Pulsedive - https://pulsedive.com/ \
 IObit - https://cloud.iobit.com/index.php \
-Amnpardaz Sandbox - https://jevereg.amnpardaz.com/
+Amnpardaz Sandbox - https://jevereg.amnpardaz.com/ \
+DocGuard - https://app.docguard.io/ \
+Sophos Intelix - https://intelix.sophos.com/ 
 
 ### Cyber Threat Intelligence
 Vuldb - https://vuldb.com/ \
@@ -77,6 +80,9 @@ IBM X-Force Exchange- https://exchange.xforce.ibmcloud.com/ \
 Feedly - https://feedly.com/ \
 PulseDive Threat Feed - https://pulsedive.com/explore/threats/ \
 PulseDive Ransomware Feed - https://pulsedive.com/threat/Ransomware \
+IntelX - https://intelx.io/tools?tab=general \
+SANS Internet Storm Center - https://isc.sans.edu/ \
+SOCRadar Labs - https://socradar.io/labs \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 ThreatMiner - https://www.threatminer.org/ \
 Malware Baazar - https://bazaar.abuse.ch/browse/ \
@@ -96,7 +102,8 @@ Threat Actor Map - https://aptmap.netlify.app/ \
 Nation State Cyber Operation Map - https://www.cfr.org/cyber-operations/ \
 Malpedia - https://malpedia.caad.fkie.fraunhofer.de/ \
 Intezer OST Map - https://intezer.com/ost-map/ \
-Ransom Wiki - https://ransom.wiki/
+Ransom Wiki - https://ransom.wiki/ \
+Kaspersky CyberTrace Feeds - https://support.kaspersky.com/datafeeds/about/13850 
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
