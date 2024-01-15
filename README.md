@@ -80,6 +80,7 @@ IBM X-Force Exchange- https://exchange.xforce.ibmcloud.com/ \
 Feedly - https://feedly.com/ \
 PulseDive Threat Feed - https://pulsedive.com/explore/threats/ \
 PulseDive Ransomware Feed - https://pulsedive.com/threat/Ransomware \
+Malpedia - https://malpedia.caad.fkie.fraunhofer.de/ \
 IntelX - https://intelx.io/tools?tab=general \
 SANS Internet Storm Center - https://isc.sans.edu/ \
 SOCRadar Labs - https://socradar.io/labs \
@@ -100,10 +101,10 @@ Lab52 Threat Mapping Tool - https://lab52.io/ \
 vx-underground APT repository - https://vx-underground.org/samples/Families/APT/ \
 Threat Actor Map - https://aptmap.netlify.app/ \
 Nation State Cyber Operation Map - https://www.cfr.org/cyber-operations/ \
-Malpedia - https://malpedia.caad.fkie.fraunhofer.de/ \
 Intezer OST Map - https://intezer.com/ost-map/ \
 Ransom Wiki - https://ransom.wiki/ \
-Kaspersky CyberTrace Feeds - https://support.kaspersky.com/datafeeds/about/13850 
+Kaspersky CyberTrace Feeds - https://support.kaspersky.com/datafeeds/about/13850 \
+Cyber Operations Tracker - https://www.cfr.org/cyber-operations/
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
