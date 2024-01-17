@@ -104,7 +104,8 @@ Nation State Cyber Operation Map - https://www.cfr.org/cyber-operations/ \
 Intezer OST Map - https://intezer.com/ost-map/ \
 Ransom Wiki - https://ransom.wiki/ \
 Kaspersky CyberTrace Feeds - https://support.kaspersky.com/datafeeds/about/13850 \
-Cyber Operations Tracker - https://www.cfr.org/cyber-operations/
+Cyber Operations Tracker - https://www.cfr.org/cyber-operations/ \
+MISP Galaxy Threat Map - https://raw.githubusercontent.com/MISP/misp-galaxy/main/clusters/threat-actor.json
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
