@@ -132,7 +132,8 @@ Subdomain Finder - https://subdomainfinder.c99.nl/ \
 Asint Collection - https://start.me/p/b5Aow7/asint_collection \
 DNSdumpster - https://dnsdumpster.com/ \
 DNSTwister - https://dnstwister.report/ \
-Blackbird - https://blackbird-osint.herokuapp.com/
+Blackbird - https://blackbird-osint.herokuapp.com/ \
+Search 0t Rocks - https://search.0t.rocks/
 
 
 ### Pentest References and CheatSheets
