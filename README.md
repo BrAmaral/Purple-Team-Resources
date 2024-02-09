@@ -5,7 +5,7 @@ A curated list of online tools and resources that I use daily as a Purple-Team o
 ---
 ### IP Check
 Virus Total - https://www.virustotal.com \
-Alien Vault - https://otx.alienvault.com/browse/global/indicators \
+Alien Vault OTX - https://otx.alienvault.com/browse/global/indicators \
 SecurityTrails - https://securitytrails.com/list/ip/151.101.130.217 \
 GreyNoise - https://viz.greynoise.io \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
@@ -28,7 +28,7 @@ Pulsedive - https://pulsedive.com/
 
 ### URL Check
 Virus Total - https://www.virustotal.com \
-Alien Vault - https://otx.alienvault.com/browse/global/indicators \
+Alien Vault OTX - https://otx.alienvault.com/browse/global/indicators \
 SecurityTrails - https://securitytrails.com/domain/google.com/dns \
 URLHaus - https://urlhaus.abuse.ch/browse/ \
 URLScan - https://urlscan.io/ \
@@ -47,7 +47,7 @@ DocGuard - https://app.docguard.io/
 
 ### Malware Check & Dynamic Analysis
 Virus Total - https://www.virustotal.com \
-Alien Vault - https://otx.alienvault.com/browse/global/indicators \
+Alien Vault OTX - https://otx.alienvault.com/browse/global/indicators \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
 Malware Baazar - https://bazaar.abuse.ch/browse/ \
 Hybrid Analysis - https://www.hybrid-analysis.com/ \
@@ -78,6 +78,7 @@ Vuldb - https://vuldb.com/ \
 Alien Vault OTX - https://otx.alienvault.com/browse/global/indicators \
 IBM X-Force Exchange- https://exchange.xforce.ibmcloud.com/ \
 Feedly - https://feedly.com/ \
+Inoreader - https://www.inoreader.com/ \
 PulseDive Threat Feed - https://pulsedive.com/explore/threats/ \
 PulseDive Ransomware Feed - https://pulsedive.com/threat/Ransomware \
 Malpedia - https://malpedia.caad.fkie.fraunhofer.de/ \
@@ -134,7 +135,6 @@ DNSdumpster - https://dnsdumpster.com/ \
 DNSTwister - https://dnstwister.report/ \
 Blackbird - https://blackbird-osint.herokuapp.com/ \
 Search 0t Rocks - https://search.0t.rocks/
-
 
 ### Pentest References and CheatSheets
 Hacking Articles - https://www.hackingarticles.in/ \
