@@ -103,6 +103,9 @@ rdesktop - A tool that we can use to open an RDP session with a workstation give
 [wapiti3](https://wapiti-scanner.github.io/) - Very reliable web application vulnerability scanner \
 [nikto](https://github.com/sullo/nikto) - A web server vulnerability scanner
 
+### Tools Repositories & Sources
+[KitPloit Blog](https://www.kitploit.com/) - A reliable source of new security tools for different purposes 
+
 ## Blue Team
 
 ### Vulnerability Scanner & Framework / Workflow (Blue perspective)
