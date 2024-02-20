@@ -77,6 +77,7 @@ Links:
 	- [ ] Type
  	- [ ] History
 	- [ ] Structure
+	- [ ] Description
 	- [ ] Related Companies / Brands
 	- [ ] Office Location / Addresses
 	- [ ] Creation date
@@ -87,17 +88,17 @@ Links:
 	- [ ] Size
  	- [ ] Capital 
 - [ ] Executive Board Information
-	- [ ] C-Board
+	- [ ] CEO / CTO/ CFO / etc...
 	- [ ] VPs
 	- [ ] Other Executives (For each business unit, if any)
-		- [ ] Head of Finance
-		- [ ] Head of Marketing
-		- [ ] Head of Production / Software
-		- [ ] Head of IT
-		- [ ] Head of Security
-		- [ ] Head of HR
-		- [ ] Head of Legal
-		- [ ] Head of Business Development (or equivalent)
+		- [ ] Finance
+		- [ ] Marketing
+		- [ ] Production / Software
+		- [ ] IT
+		- [ ] Security
+		- [ ] HR
+		- [ ] Legal
+		- [ ] Business Development (or equivalent)
 - [ ] High Value Targets
 	- [ ] Cyber Security Team Members
 	- [ ] DevOps / Engineers Team Members
