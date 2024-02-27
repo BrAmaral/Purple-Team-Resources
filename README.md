@@ -135,7 +135,9 @@ Asint Collection - https://start.me/p/b5Aow7/asint_collection \
 DNSdumpster - https://dnsdumpster.com/ \
 DNSTwister - https://dnstwister.report/ \
 Blackbird - https://blackbird-osint.herokuapp.com/ \
-Search 0t Rocks - https://search.0t.rocks/
+Search 0t Rocks - https://search.0t.rocks/ \
+PimEyes - https://pimeyes.com/pt \
+TinEye - https://tineye.com/
 
 ### Pentest References and CheatSheets
 Hacking Articles - https://www.hackingarticles.in/ \
