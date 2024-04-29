@@ -142,7 +142,8 @@ TinEye - https://tineye.com/
 
 ### Webhook Testers
 Webhook Site - https://webhook.site/ \
-Webhook Test - https://webhook-test.com/
+Webhook Test - https://webhook-test.com/ \
+Typed Webhook Tools - https://typedwebhook.tools/
 
 ### Pentest References and CheatSheets
 Hacking Articles - https://www.hackingarticles.in/ \
