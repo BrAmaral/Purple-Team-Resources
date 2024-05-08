@@ -2,7 +2,6 @@
 A curated list of online tools and resources that I use daily as a Purple-Team operator. Enjoy!
 
 ## Blue Team Resources
----
 ### IP Check
 Virus Total - https://www.virustotal.com \
 Alien Vault OTX - https://otx.alienvault.com/browse/global/indicators \
@@ -110,6 +109,14 @@ MISP Galaxy Threat Map - https://raw.githubusercontent.com/MISP/misp-galaxy/main
 InTheWild Feed Vuln Feed - https://inthewild.io/feed \
 RESCURE Threat Feeds - https://rescure.me/feeds.html
 
+### Cyber Threat Intelligence Articles
+Intelligence Structured Analytical Techniques (SAT): \
+https://www.intelligence101.com/structured-analytical-techniques/ \
+Intelligence Report Writing: \
+https://www.intelligence101.com/the-ultimate-guide-to-writing-intelligence-reports-complete-with-templates-examples/ \
+Intelligence Profiling: \
+https://www.intelligence101.com/intelligence-target-packs/
+
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
 Cyber Defenders - https://cyberdefenders.org/
@@ -119,7 +126,6 @@ Linux Forensics Cheatsheet - https://fahmifj.github.io/blog/linux-forensics-comm
 Incident Response Linux Cheatsheet - https://www.hackingarticles.in/incident-response-linux-cheatsheet/
 
 ## Red Team Resources
----
 
 ### OSINT
 OSINT Framework - https://osintframework.com/ \
@@ -171,6 +177,21 @@ WADComs - https://wadcoms.github.io/ \
 LOLBAS - https://lolbas-project.github.io/# \
 explainshell - https://explainshell.com/
 
+### Learning Spots & CTF - Red Team
+HackTheBox - https://www.hackthebox.eu/ \
+TryHackMe - https://tryhackme.com/ \
+VulnHub - https://www.vulnhub.com/ \
+PortSwigger - https://portswigger.net/web-security/all-materials \
+Hacker101 - https://ctf.hacker101.com/ \
+HackMyVM - https://hackmyvm.eu/ \
+AndroidCTF - https://ctf.hpandro.raviramesh.info/
+
+### Cracking Hashes
+CrackStation - https://crackstation.net/ \
+Hashes.com - https://hashes.com/en/decrypt/hash
+
+### Privilege Escalation & Interactive Shell
+GTFOBins - https://gtfobins.github.io/#
 
 ### Exploit Development Resources & Articles
 Exploit Development - Everything you need to know: \
@@ -188,35 +209,14 @@ https://www.offensive-security.com/metasploit-unleashed/building-module/ \
 The art of creating backdoors and exploits with metasploit: \
 https://www.thesecurityblogger.com/the-art-of-creating-backdoors-and-exploits-with-metasploit/
 
-
-### Learning Spots & CTF - Red Team
-HackTheBox - https://www.hackthebox.eu/ \
-TryHackMe - https://tryhackme.com/ \
-VulnHub - https://www.vulnhub.com/ \
-PortSwigger - https://portswigger.net/web-security/all-materials \
-Hacker101 - https://ctf.hacker101.com/ \
-HackMyVM - https://hackmyvm.eu/ \
-AndroidCTF - https://ctf.hpandro.raviramesh.info/
-
-### Cracking Hashes
-CrackStation - https://crackstation.net/ \
-Hashes.com - https://hashes.com/en/decrypt/hash
-
-### Privilege Escalation & Interactive Shell
-GTFOBins - https://gtfobins.github.io/#
-
-### Useful Articles (That I've Used Before)
+### Other Useful Red Team Articles
 Privilege escalation in Linux using Capabilities: \
-https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
-
+https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/ \
 Wordpress Reverse Shell: \
-https://www.hackingarticles.in/wordpress-reverse-shell/ 
-
+https://www.hackingarticles.in/wordpress-reverse-shell/ \
 Wordpress User Cracking: \
-https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login
-
+https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login \
 Web Apps Testing Guide by OWASP: \
-https://owasp.org/www-project-web-security-testing-guide/stable/
-
+https://owasp.org/www-project-web-security-testing-guide/stable/ \
 Phishing attack using SET and Ettercap \
-https://www.nanoshots.com.br/2015/09/capturando-senhas-com-social.html
+https://www.nanoshots.com.br/2015/09/capturando-senhas-com-social.html 
