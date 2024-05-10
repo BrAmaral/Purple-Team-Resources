@@ -119,7 +119,8 @@ https://www.intelligence101.com/intelligence-target-packs/
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
-Cyber Defenders - https://cyberdefenders.org/
+Cyber Defenders - https://cyberdefenders.org/ \
+Blue Team Labs - https://blueteamlabs.online/
 
 ### Forensic Analysis Resources
 Linux Forensics Cheatsheet - https://fahmifj.github.io/blog/linux-forensics-command-cheat-sheet/ \
