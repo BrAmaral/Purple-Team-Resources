@@ -81,6 +81,7 @@ Inoreader - https://www.inoreader.com/ \
 PulseDive Threat Feed - https://pulsedive.com/explore/threats/ \
 PulseDive Ransomware Feed - https://pulsedive.com/threat/Ransomware \
 Ransomlook.io - https://www.ransomlook.io/ \
+Ransomware Live - https://www.ransomware.live/ \
 Malpedia - https://malpedia.caad.fkie.fraunhofer.de/ \
 IntelX - https://intelx.io/tools?tab=general \
 SANS Internet Storm Center - https://isc.sans.edu/ \
