@@ -145,7 +145,8 @@ Asint Collection - https://start.me/p/b5Aow7/asint_collection \
 DNSdumpster - https://dnsdumpster.com/ \
 DNSTwister - https://dnstwister.report/ \
 Blackbird - https://blackbird-osint.herokuapp.com/ \
-Search 0t Rocks - https://search.0t.rocks/ \
+Search 0t Rocks - https://search.0t.rocks/ (Currently down) \
+Breach Directory - https://breachdirectory.org/ \
 PimEyes - https://pimeyes.com/pt \
 TinEye - https://tineye.com/
 
