@@ -82,6 +82,7 @@ PulseDive Threat Feed - https://pulsedive.com/explore/threats/ \
 PulseDive Ransomware Feed - https://pulsedive.com/threat/Ransomware \
 Ransomlook.io - https://www.ransomlook.io/ \
 Ransomware Live - https://www.ransomware.live/ \
+HudsonRock Tools - https://www.hudsonrock.com/threat-intelligence-cybercrime-tools \
 Malpedia - https://malpedia.caad.fkie.fraunhofer.de/ \
 IntelX - https://intelx.io/tools?tab=general \
 SANS Internet Storm Center - https://isc.sans.edu/ \
