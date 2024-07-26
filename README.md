@@ -23,7 +23,8 @@ IPinfo - https://ipinfo.io/ \
 VPN & Proxy Detection - https://vpn-proxy-detection.ipify.org/ \
 IP Teoh - https://ip.teoh.io/vpn-detection \
 VPNAPI.io - https://vpnapi.io/vpn-detection \
-Pulsedive - https://pulsedive.com/
+Pulsedive - https://pulsedive.com/ \
+IOC.One - https://ioc.one/
 
 ### URL Check
 Virus Total - https://www.virustotal.com \
@@ -42,7 +43,8 @@ WhereGoes - https://wheregoes.com/ \
 RedirectDetective - https://redirectdetective.com/ \
 RedirectTracker - https://www.redirecttracker.com/ \
 Bulkblacklist - https://www.bulkblacklist.com/ \
-DocGuard - https://app.docguard.io/
+DocGuard - https://app.docguard.io/ \
+IOC.One - https://ioc.one/
 
 ### Malware Check & Dynamic Analysis
 Virus Total - https://www.virustotal.com \
@@ -110,7 +112,8 @@ Kaspersky CyberTrace Feeds - https://support.kaspersky.com/datafeeds/about/13850
 Cyber Operations Tracker - https://www.cfr.org/cyber-operations/ \
 MISP Galaxy Threat Map - https://raw.githubusercontent.com/MISP/misp-galaxy/main/clusters/threat-actor.json \
 InTheWild Feed Vuln Feed - https://inthewild.io/feed \
-RESCURE Threat Feeds - https://rescure.me/feeds.html
+RESCURE Threat Feeds - https://rescure.me/feeds.html \
+IOC.One - https://ioc.one/
 
 ### Cyber Threat Intelligence Articles
 Intelligence Structured Analytical Techniques (SAT): \
