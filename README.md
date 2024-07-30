@@ -196,7 +196,8 @@ AndroidCTF - https://ctf.hpandro.raviramesh.info/
 
 ### Cracking Hashes
 CrackStation - https://crackstation.net/ \
-Hashes.com - https://hashes.com/en/decrypt/hash
+Hashes.com - https://hashes.com/en/decrypt/hash \
+Hashkiller - https://hashkiller.io
 
 ### Privilege Escalation & Interactive Shell
 GTFOBins - https://gtfobins.github.io/#
