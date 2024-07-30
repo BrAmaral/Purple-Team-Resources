@@ -199,6 +199,9 @@ CrackStation - https://crackstation.net/ \
 Hashes.com - https://hashes.com/en/decrypt/hash \
 Hashkiller - https://hashkiller.io
 
+### Reverse Shell Utility
+Revshell - https://www.revshells.com/
+
 ### Privilege Escalation & Interactive Shell
 GTFOBins - https://gtfobins.github.io/#
 
