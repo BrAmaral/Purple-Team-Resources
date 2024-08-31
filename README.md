@@ -154,11 +154,6 @@ Breach Directory - https://breachdirectory.org/ \
 PimEyes - https://pimeyes.com/pt \
 TinEye - https://tineye.com/
 
-### Webhook Testers
-Webhook Site - https://webhook.site/ \
-Webhook Test - https://webhook-test.com/ \
-Typed Webhook Tools - https://typedwebhook.tools/
-
 ### Pentest References and CheatSheets
 Hacking Articles - https://www.hackingarticles.in/ \
 Hack Tricks - https://book.hacktricks.xyz/ \
@@ -232,3 +227,19 @@ Web Apps Testing Guide by OWASP: \
 https://owasp.org/www-project-web-security-testing-guide/stable/ \
 Phishing attack using SET and Ettercap \
 https://www.nanoshots.com.br/2015/09/capturando-senhas-com-social.html 
+
+## In between...
+### Webhook Testers
+Webhook Site - https://webhook.site/ \
+Webhook Test - https://webhook-test.com/ \
+Typed Webhook Tools - https://typedwebhook.tools/
+
+### Bins
+PrivateBin - https://privatebin.net/ \
+Dontpad - https://dontpad.com/
+
+### File Sharing
+Send - https://send.vis.ee/ 
+
+### Password Sharing
+PWPush - https://pwpush.com/p/new
