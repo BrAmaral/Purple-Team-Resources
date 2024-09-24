@@ -239,7 +239,9 @@ PrivateBin - https://privatebin.net/ \
 Dontpad - https://dontpad.com/
 
 ### File Sharing
-Send - https://send.vis.ee/ 
+Send - https://send.vis.ee/ \
+Wormhole - https://wormhole.app/ \
+WeTransfer - https://wetransfer.com/
 
 ### Password Sharing
 PWPush - https://pwpush.com/p/new
