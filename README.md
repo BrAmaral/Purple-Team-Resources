@@ -121,7 +121,13 @@ https://www.intelligence101.com/structured-analytical-techniques/ \
 Intelligence Report Writing: \
 https://www.intelligence101.com/the-ultimate-guide-to-writing-intelligence-reports-complete-with-templates-examples/ \
 Intelligence Profiling: \
-https://www.intelligence101.com/intelligence-target-packs/
+https://www.intelligence101.com/intelligence-target-packs/ \
+Dark Web Monitoring: \
+https://medium.com/@jonathan.benalii/dark-web-monitoring-part-1-d75fb43f2238 \
+The Cyber Threat Intelligence Life Cycle: A Case Study: \
+https://cyberwithcasey.medium.com/the-cyber-threat-intelligence-life-cycle-a-case-study-021408d8f10b \
+Teaching the Intelligence Process: The Killing of Bin Laden as a Case Study \
+https://www.jstor.org/stable/26485059
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
