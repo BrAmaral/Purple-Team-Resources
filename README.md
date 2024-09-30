@@ -203,6 +203,10 @@ Hashkiller - https://hashkiller.io
 ### Reverse Shell Utility
 Revshell - https://www.revshells.com/
 
+### IP Logger
+IP Logger - https://iplogger.org/ \
+Grabify - https://grabify.link
+
 ### Privilege Escalation & Interactive Shell
 GTFOBins - https://gtfobins.github.io/#
 
@@ -251,6 +255,11 @@ WeTransfer - https://wetransfer.com/
 
 ### Password Sharing
 PWPush - https://pwpush.com/p/new
+
+### URL Shorteners
+Tinyurl - https://tinyurl.com/ \
+Shorturl - https://www.shorturl.at \
+T.ly - https://t.ly/
 
 ### Private Comms
 Signal - https://signal.org/ \
