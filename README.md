@@ -251,3 +251,16 @@ WeTransfer - https://wetransfer.com/
 
 ### Password Sharing
 PWPush - https://pwpush.com/p/new
+
+### Private Comms
+Signal - https://signal.org/ \
+Session - https://getsession.org/ \
+Tox - https://tox.chat/ \
+Matrix - https://matrix.org/ \
+Jabber - https://www.jabber.org/
+
+### VPNs
+Nord - https://nordvpn.com/ \
+Surfshark - https://surfshark.com/ \
+Proton - https://protonvpn.com/ \
+Express - https://www.expressvpn.com/
