@@ -251,7 +251,8 @@ Dontpad - https://dontpad.com/
 ### File Sharing
 Send - https://send.vis.ee/ \
 Wormhole - https://wormhole.app/ \
-WeTransfer - https://wetransfer.com/
+WeTransfer - https://wetransfer.com/ \
+OnionShare - https://onionshare.org/ (require download)
 
 ### Password Sharing
 PWPush - https://pwpush.com/p/new
