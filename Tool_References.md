@@ -107,7 +107,8 @@ rdesktop - A tool that we can use to open an RDP session with a workstation give
 [Ngrok](https://ngrok.com/) - Most popular service for exposing a local server \
 [Pagekite](https://pagekite.net/) - Alternative to Ngrok. Open-Source tool to make your localhost part of the Web \
 [localtunnel](https://theboroer.github.io/localtunnel-www/) - Allows you to easily share a web service on your local development machine without messing with DNS and firewall settings \
-[Fast Reverse Proxy](https://gofrp.org/en/) - Helps you expose your service behind a firewall or NAT to the public internet.
+[Fast Reverse Proxy](https://gofrp.org/en/) - Helps you expose your service behind a firewall or NAT to the public internet. \
+[Caddy](https://caddyserver.com/) - Capable of proxying HTTP and HTTPS, but also WebSockets, gRPC, FastCGI (usually PHP), and more
 
 ### Tools Repositories & Sources
 [KitPloit Blog](https://www.kitploit.com/) - A reliable source of new security tools for different purposes 
