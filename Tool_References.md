@@ -103,6 +103,12 @@ rdesktop - A tool that we can use to open an RDP session with a workstation give
 [wapiti3](https://wapiti-scanner.github.io/) - Very reliable web application vulnerability scanner \
 [nikto](https://github.com/sullo/nikto) - A web server vulnerability scanner
 
+### Reverse Proxy
+[Ngrok](https://ngrok.com/) - Most popular service for exposing a local server \
+[Pagekite](https://pagekite.net/) - Alternative to Ngrok. Open-Source tool to make your localhost part of the Web \
+[localtunnel](https://theboroer.github.io/localtunnel-www/) - Allows you to easily share a web service on your local development machine without messing with DNS and firewall settings \
+[Fast Reverse Proxy](https://gofrp.org/en/) - Helps you expose your service behind a firewall or NAT to the public internet.
+
 ### Tools Repositories & Sources
 [KitPloit Blog](https://www.kitploit.com/) - A reliable source of new security tools for different purposes 
 
