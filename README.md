@@ -116,18 +116,14 @@ RESCURE Threat Feeds - https://rescure.me/feeds.html \
 IOC.One - https://ioc.one/
 
 ### Cyber Threat Intelligence Articles
-Intelligence Structured Analytical Techniques (SAT): \
-https://www.intelligence101.com/structured-analytical-techniques/ \
-Intelligence Report Writing: \
-https://www.intelligence101.com/the-ultimate-guide-to-writing-intelligence-reports-complete-with-templates-examples/ \
-Intelligence Profiling: \
-https://www.intelligence101.com/intelligence-target-packs/ \
-Dark Web Monitoring: \
-https://medium.com/@jonathan.benalii/dark-web-monitoring-part-1-d75fb43f2238 \
-The Cyber Threat Intelligence Life Cycle: A Case Study: \
-https://cyberwithcasey.medium.com/the-cyber-threat-intelligence-life-cycle-a-case-study-021408d8f10b \
-Teaching the Intelligence Process: The Killing of Bin Laden as a Case Study \
-https://www.jstor.org/stable/26485059
+1. [Cyber Threat Intelligence for Autodidacts](https://blog.bushidotoken.net/2024/10/cyber-threat-intelligence-for.html)
+2. [Intelligence Structured Analytical Techniques (SAT)](https://www.intelligence101.com/structured-analytical-techniques)
+3. [Intelligence Report Writing](https://www.intelligence101.com/the-ultimate-guide-to-writing-intelligence-reports-complete-with-templates-examples/)
+4. [Intelligence Profiling](https://www.intelligence101.com/intelligence-target-packs/)
+5. [Dark Web Monitoring](https://medium.com/@jonathan.benalii/dark-web-monitoring-part-1-d75fb43f2238)
+6. [The Cyber Threat Intelligence Life Cycle: A Case Study](https://cyberwithcasey.medium.com/the-cyber-threat-intelligence-life-cycle-a-case-study-021408d8f10b)
+7. [Teaching the Intelligence Process: The Killing of Bin Laden as a Case Study](https://www.jstor.org/stable/26485059)
+
 
 ### Learning Spots & CTF - Blue Team
 Let's Defend - https://letsdefend.io/ \
@@ -211,32 +207,21 @@ Grabify - https://grabify.link
 GTFOBins - https://gtfobins.github.io/#
 
 ### Exploit Development Resources & Articles
-Exploit Development - Everything you need to know: \
-https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/ \
-How to build your own exploits, Part 1: \
-https://null-byte.wonderhowto.com/how-to/hack-like-pro-build-your-own-exploits-part-1-introduction-buffer-overflows-0151173/ \
-How to build your own exploits, Part 2: \
-https://null-byte.wonderhowto.com/how-to/hack-like-pro-build-your-own-exploits-part-2-writing-simple-buffer-overflow-c-0159478/ \
-How to build your own exploits, Part 3: \
-https://null-byte.wonderhowto.com/how-to/hack-like-pro-build-your-own-exploits-part-3-fuzzing-with-spike-find-overflows-0162789/ \
-How to create a Metasploit Exploit in a few minutes: \
-https://null-byte.wonderhowto.com/how-to/create-metasploit-exploit-few-minutes-0168445/ \
-Metasploit - Building a Module: \
-https://www.offensive-security.com/metasploit-unleashed/building-module/ \
-The art of creating backdoors and exploits with metasploit: \
-https://www.thesecurityblogger.com/the-art-of-creating-backdoors-and-exploits-with-metasploit/
+1. [Exploit Development - Everything you need to know](https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/)
+2. [How to build your own exploits, Part 1](https://null-byte.wonderhowto.com/how-to/hack-like-pro-build-your-own-exploits-part-1-introduction-buffer-overflows-0151173/)
+3. [How to build your own exploits, Part 2](https://null-byte.wonderhowto.com/how-to/hack-like-pro-build-your-own-exploits-part-2-writing-simple-buffer-overflow-c-0159478/)
+4. [How to build your own exploits, Part 3](https://null-byte.wonderhowto.com/how-to/hack-like-pro-build-your-own-exploits-part-3-fuzzing-with-spike-find-overflows-0162789/)
+5. [How to create a Metasploit Exploit in a few minutes](https://null-byte.wonderhowto.com/how-to/create-metasploit-exploit-few-minutes-0168445/)
+6. [Metasploit - Building a Module](https://www.offensive-security.com/metasploit-unleashed/building-module/)
+7. [The art of creating backdoors and exploits with Metasploit](https://www.thesecurityblogger.com/the-art-of-creating-backdoors-and-exploits-with-metasploit/)
 
 ### Other Useful Red Team Articles
-Privilege escalation in Linux using Capabilities: \
-https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/ \
-Wordpress Reverse Shell: \
-https://www.hackingarticles.in/wordpress-reverse-shell/ \
-Wordpress User Cracking: \
-https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login \
-Web Apps Testing Guide by OWASP: \
-https://owasp.org/www-project-web-security-testing-guide/stable/ \
-Phishing attack using SET and Ettercap \
-https://www.nanoshots.com.br/2015/09/capturando-senhas-com-social.html 
+1. [Privilege escalation in Linux using Capabilities](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
+2. [Wordpress Reverse Shell](https://www.hackingarticles.in/wordpress-reverse-shell/)
+3. [Wordpress User Cracking](https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login)
+4. [Web Apps Testing Guide by OWASP](https://owasp.org/www-project-web-security-testing-guide/stable/)
+5. [Phishing attack using SET and Ettercap](https://www.nanoshots.com.br/2015/09/capturando-senhas-com-social.html)
+ 
 
 ## In between...
 ### Webhook Testers
