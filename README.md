@@ -54,6 +54,7 @@ Malware Baazar - https://bazaar.abuse.ch/browse/ \
 Hybrid Analysis - https://www.hybrid-analysis.com/ \
 Any Run - https://app.any.run/ \
 Joe Sandbox - https://www.joesandbox.com/#windows \
+Comodo Valkyrie - https://valkyrie.comodo.com \
 Browserling - https://www.browserling.com/ \
 Cuckoo Sandbox Online - https://sandbox.pikker.ee/ \
 Cuckoo Sandbox Local - https://cuckoosandbox.org/download \
