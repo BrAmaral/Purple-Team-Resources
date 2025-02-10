@@ -238,7 +238,8 @@ Dontpad - https://dontpad.com/
 Send - https://send.vis.ee/ \
 Wormhole - https://wormhole.app/ \
 WeTransfer - https://wetransfer.com/ \
-OnionShare - https://onionshare.org/ (require download)
+OnionShare - https://onionshare.org/ (require download) \
+BiteBlob - https://biteblob.com/
 
 ### Password Sharing
 PWPush - https://pwpush.com/p/new
