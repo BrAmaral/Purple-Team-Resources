@@ -261,3 +261,11 @@ Nord - https://nordvpn.com/ \
 Surfshark - https://surfshark.com/ \
 Proton - https://protonvpn.com/ \
 Express - https://www.expressvpn.com/
+
+### AI
+Perplexity - https://www.perplexity.ai \
+NotebookLM - https://notebooklm.google.com/ \
+Microsoft Copilot - https://copilot.microsoft.com/ \
+ChatGPT - https://chatgpt.com/ \
+Deepseek - https://chat.deepseek.com/ \
+Google Gemini - https://gemini.google.com/
