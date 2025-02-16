@@ -257,11 +257,18 @@ Tox - https://tox.chat/ \
 Matrix - https://matrix.org/ \
 Jabber - https://www.jabber.org/
 
+### Temp Phone Numbers
+TextVerified - https://www.textverified.com/
+
 ### VPNs
 Nord - https://nordvpn.com/ \
 Surfshark - https://surfshark.com/ \
 Proton - https://protonvpn.com/ \
 Express - https://www.expressvpn.com/
+
+### Android Emulation
+BlissOS - https://blissos.org/ \
+MemuPlay - https://www.memuplay.com/
 
 ### AI
 Perplexity - https://www.perplexity.ai \
