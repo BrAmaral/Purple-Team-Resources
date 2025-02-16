@@ -114,7 +114,8 @@ Cyber Operations Tracker - https://www.cfr.org/cyber-operations/ \
 MISP Galaxy Threat Map - https://raw.githubusercontent.com/MISP/misp-galaxy/main/clusters/threat-actor.json \
 InTheWild Feed Vuln Feed - https://inthewild.io/feed \
 RESCURE Threat Feeds - https://rescure.me/feeds.html \
-IOC.One - https://ioc.one/
+IOC.One - https://ioc.one/ \
+Dark Web Hub - https://slcyber.io/dark-web-hub/
 
 ### Cyber Threat Intelligence Articles
 1. [Cyber Threat Intelligence for Autodidacts](https://blog.bushidotoken.net/2024/10/cyber-threat-intelligence-for.html)
