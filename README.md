@@ -5,11 +5,9 @@ A curated list of online tools and resources that I use daily as a Purple-Team o
 ### IP Check
 Virus Total - https://www.virustotal.com \
 Alien Vault OTX - https://otx.alienvault.com/browse/global/indicators \
-SecurityTrails - https://securitytrails.com/list/ip/151.101.130.217 \
-GreyNoise - https://viz.greynoise.io \
+GreyNoise `VPN Detection` - https://viz.greynoise.io \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
-IP Quality Score - https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test \
-BrowserLeaks - https://browserleaks.com \
+IP Quality Score `VPN Detection` - https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test \
 Shodan - https://www.shodan.io/ \
 Censys - https://censys.io/ipv4 \
 Cisco TALOS - https://talosintelligence.com/ \
@@ -18,11 +16,12 @@ Whatismyipaddress Blacklist Check - https://whatismyipaddress.com/blacklist-chec
 The Anti Abuse Project - http://www.anti-abuse.org/multi-rbl-check/ \
 InQuest Labs - https://labs.inquest.net/repdb \
 MalwareIURL - https://www.malwareurl.com/listing-urls.php \
-ThreatMiner - https://www.threatminer.org/ \
+ThreatMiner `Currently Down` - https://www.threatminer.org/ \
 IPinfo - https://ipinfo.io/ \
-VPN & Proxy Detection - https://vpn-proxy-detection.ipify.org/ \
-IP Teoh - https://ip.teoh.io/vpn-detection \
-VPNAPI.io - https://vpnapi.io/vpn-detection \
+BrowserLeaks - https://browserleaks.com \
+VPN & Proxy Detection `VPN Detection` - https://vpn-proxy-detection.ipify.org/ \
+IP Teoh `VPN Detection` - https://ip.teoh.io/vpn-detection \
+VPNAPI.io `VPN Detection` - https://vpnapi.io/vpn-detection \
 Pulsedive - https://pulsedive.com/ \
 IOC.One - https://ioc.one/
 
