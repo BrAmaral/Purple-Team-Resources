@@ -69,8 +69,8 @@ InQuest Labs - https://labs.inquest.net/dfi \
 Manalyzer - https://manalyzer.org/ \
 ThreatMiner - https://www.threatminer.org/ \
 Pulsedive - https://pulsedive.com/ \
-IObit - https://cloud.iobit.com/index.php \
-Amnpardaz Sandbox - https://jevereg.amnpardaz.com/ \
+IObit - https://cloud.iobit.com/index.php \ (Currently down)
+Amnpardaz Sandbox - https://jevereg.amnpardaz.com/ \ (Currently down)
 DocGuard - https://app.docguard.io/ \
 Sophos Intelix - https://intelix.sophos.com/ 
 
@@ -86,7 +86,7 @@ Ransomlook.io - https://www.ransomlook.io/ \
 Ransomware Live - https://www.ransomware.live/ \
 HudsonRock Tools - https://www.hudsonrock.com/threat-intelligence-cybercrime-tools \
 Malpedia - https://malpedia.caad.fkie.fraunhofer.de/ \
-IntelX - https://intelx.io/tools?tab=general \
+IntelX - https://intelx.io/tools?tab=general \ (Currently down)
 SANS Internet Storm Center - https://isc.sans.edu/ \
 SOCRadar Labs - https://socradar.io/labs \
 Threat Fox - https://threatfox.abuse.ch/browse/ \
@@ -96,7 +96,7 @@ Virus Total - https://www.virustotal.com/gui/home/search \
 Shodan - https://www.shodan.io/ \
 Censys - https://censys.io/ipv4 \
 Any-run - https://any.run/malware-trends/ \
-Risk IQ Community - https://community.riskiq.com/home \
+Risk IQ Community - https://community.riskiq.com/home \ (currently down)
 Mandiant Threat Intelligence - https://www.mandiant.com/advantage/threat-intelligence/free-version \
 VmWare Carbon Black - https://community.carbonblack.com/ \
 Crowdstrike Threat Profile - https://www.crowdstrike.com/adversaries/?ref=adversary.crowdstrike.com \
@@ -113,7 +113,7 @@ Cyber Operations Tracker - https://www.cfr.org/cyber-operations/ \
 MISP Galaxy Threat Map - https://raw.githubusercontent.com/MISP/misp-galaxy/main/clusters/threat-actor.json \
 InTheWild Feed Vuln Feed - https://inthewild.io/feed \
 RESCURE Threat Feeds - https://rescure.me/feeds.html \
-IOC.One - https://ioc.one/ \
+IOC.One - https://ioc.one/ \ (Currently down)
 Dark Web Hub - https://slcyber.io/dark-web-hub/
 
 ### Cyber Threat Intelligence Articles
@@ -227,7 +227,7 @@ GTFOBins - https://gtfobins.github.io/#
 ## In between...
 ### Webhook Testers
 Webhook Site - https://webhook.site/ \
-Webhook Test - https://webhook-test.com/ \
+Webhook Test - https://webhook-test.com/ \ (Currently down)
 Typed Webhook Tools - https://typedwebhook.tools/
 
 ### Bins
