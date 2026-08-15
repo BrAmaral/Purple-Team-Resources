@@ -13,7 +13,7 @@ Censys - https://censys.io/ipv4 \
 Cisco TALOS - https://talosintelligence.com/ \
 AbuseIPDB - https://www.abuseipdb.com/ \
 Whatismyipaddress Blacklist Check - https://whatismyipaddress.com/blacklist-check \
-The Anti Abuse Project - http://www.anti-abuse.org/multi-rbl-check/ \
+The Anti Abuse Project - https://www.anti-abuse.org/multi-rbl-check/ \
 InQuest Labs - https://labs.inquest.net/repdb \
 MalwareIURL - https://www.malwareurl.com/listing-urls.php \
 ThreatMiner `Currently Down` - https://www.threatminer.org/ \
@@ -156,6 +156,7 @@ Search 0t Rocks - https://search.0t.rocks/ (Currently down) \
 Breach Directory - https://breachdirectory.org/ \
 PimEyes - https://pimeyes.com/pt \
 TinEye - https://tineye.com/
+Xquik - https://github.com/Xquik-dev/x-twitter-scraper
 
 ### Pentest References and CheatSheets
 Hacking Articles - https://www.hackingarticles.in/ \
