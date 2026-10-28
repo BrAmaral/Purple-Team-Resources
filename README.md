@@ -19,6 +19,7 @@ MalwareIURL - https://www.malwareurl.com/listing-urls.php \
 ThreatMiner `Currently Down` - https://www.threatminer.org/ \
 IPinfo - https://ipinfo.io/ \
 BrowserLeaks - https://browserleaks.com \
+ShieldLabs Anonymity Checker `Current-browser VPN/Proxy/Tor/Bot signals` - https://demo.shieldlabs.ai/anonymity-checker \
 VPN & Proxy Detection `VPN Detection` - https://vpn-proxy-detection.ipify.org/ \
 IP Teoh `VPN Detection` - https://ip.teoh.io/vpn-detection \
 VPNAPI.io `VPN Detection` - https://vpnapi.io/vpn-detection \
