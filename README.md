@@ -18,6 +18,7 @@ InQuest Labs - https://labs.inquest.net/repdb \
 MalwareIURL - https://www.malwareurl.com/listing-urls.php \
 ThreatMiner `Currently Down` - https://www.threatminer.org/ \
 IPinfo - https://ipinfo.io/ \
+Whatoblock - https://whatoblock.com/ \
 BrowserLeaks - https://browserleaks.com \
 VPN & Proxy Detection `VPN Detection` - https://vpn-proxy-detection.ipify.org/ \
 IP Teoh `VPN Detection` - https://ip.teoh.io/vpn-detection \
